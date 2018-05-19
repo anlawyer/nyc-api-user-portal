@@ -15,9 +15,9 @@ public class EurekaServerApplication {
 		SpringApplication.run(EurekaServerApplication.class, args);
 	}
 
-  @Configuration
-  @Profile("dev")
-  @ComponentScan(lazyInit = true)
-  static class LocalConfig {
-  }
+	@Configuration
+	@Profile("dev")
+	@ComponentScan(lazyInit = true)
+	static class LocalConfig {
+	}
 }
