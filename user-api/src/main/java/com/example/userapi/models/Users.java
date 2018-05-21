@@ -17,4 +17,13 @@ public class Users {
 
     @Column(name = "EMAIL")
     private String EMAIL;
+
+    @Column(name = "ZIP")
+    private Integer ZIP;
+
+    @Column(name = "AGE_RANGE")
+    private String AGE_RANGE;
+
+    @Column(name = "INDUSTRY")
+    private String INDUSTRY;
 }
