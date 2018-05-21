@@ -11,14 +11,9 @@ public class UserController {
     @Autowired
     private UserRepository userRepository;
 
-    @RequestMapping("/")
-    public String home() {
-        return "some users";
-    }
-
-//    @GetMapping("/")
-//    public Iterable<Users> findAllFavorite() {
-//        return userRepository.findAll();
-//    }
+   @GetMapping("/")
+   public Iterable<Users> findAllUsers() {
+       return userRepository.findAll();
+   }
 
 }
