@@ -6,30 +6,30 @@
   </div>
   <div class="row">
     <div class="col">
-      <form>
+      <form (ngSubmit)="onSubmit()">
         <div class="form-group row">
           <label for="name" class="col-sm-2 col-form-label">Name</label>
           <div class="col-sm-10">
-            <input type="text" class="form-control" id="name" placeholder="Enter your name">
+            <input type="text" class="form-control" id="name" placeholder="Enter your name" [(ngModel)]="user.userName" name="userName">
           </div>
         </div>
         <div class="form-group row">
           <label for="email" class="col-sm-2 col-form-label">Email address</label>
           <div class="col-sm-10">
-            <input type="email" class="form-control" id="email" aria-describedby="emailHelp" placeholder="Enter your email">
+            <input type="email" class="form-control" id="email" aria-describedby="emailHelp" placeholder="Enter your email" [(ngModel)]="user.userEmail" name="userEmail">
             <small id="emailHelp" class="form-text text-muted">We'll never share your email with anyone else.</small>
           </div>
         </div>
         <div class="form-group row">
           <label for="zip-code" class="col-sm-2 col-form-label">Zip Code</label>
           <div class="col-sm-10">
-            <input type="text" class="form-control" id="zip-code" placeholder="Enter your zip code">
+            <input type="text" class="form-control" id="zip-code" placeholder="Enter your zip code" [(ngModel)]="user.userZipCode" name="userZipCode">
           </div>
         </div>
         <div class="form-group row">
           <label for="age-select" class="col-sm-2 col-form-label">Age</label>
           <div class="col-sm-10">
-            <select class="form-control" id="age-select">
+            <select class="form-control" id="age-select" [(ngModel)]="user.userAgeRange" name="userAgeRange">
               <option disabled>Select one</option>
               <option>>18</option>
               <option>18-25</option>
@@ -43,7 +43,7 @@
         <div class="form-group row">
           <label for="industry-select" class="col-sm-2 col-form-label">Industry of work</label>
           <div class="col-sm-10">
-            <select class="form-control" id="industry-select">
+            <select class="form-control" id="industry-select" [(ngModel)]="user.userIndustry" name="userIndustry">
               <option disabled>Select one</option>
               <option>Aerospace</option>
               <option>Agriculture</option>

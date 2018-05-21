@@ -16,4 +16,8 @@ public class UserController {
        return userRepository.findAll();
    }
 
+   @PostMapping("/")
+   public Users createNewUser(@RequestBody Users newUser) {
+     return userRepository.save(newUser);
+   }
 }
