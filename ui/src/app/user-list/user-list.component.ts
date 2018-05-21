@@ -1,5 +1,5 @@
 import { Component, OnInit } from '@angular/core';
-import { Http } from '@angular/http';
+import { UserService } from '../user.service';
 
 @Component({
   selector: 'app-user-list',
@@ -11,16 +11,12 @@ export class UserListComponent implements OnInit {
   users: any;
 
   constructor(
-    private http: Http
+    private UserService: UserService
   ) { }
 
-  callDB() {
-    this.http.get('/api/user')
-    .subscribe(res => this.users = res.json());
-  }
-
   ngOnInit() {
-    this.callDB();
+    this.UserService.getAllUsers()
+    .subscribe(res => this.users = res.json());
   }
 
 }
