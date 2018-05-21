@@ -1,3 +1,19 @@
-<p>
-  user-list works!
-</p>
+<div class="container">
+  <div class="row">
+    <div class="col">
+      <h3>All accounts</h3>
+    </div>
+  </div>
+  <div class="row" *ngIf="users">
+    <div class="col-6" *ngFor="let user of users">
+      <div class="card">
+        <div class="card-body">
+          <h5 class="card-title">{{user.name}}</h5>
+          <h6 class="card-subtitle mb-2 text-muted">{{user.email}}</h6>
+          <a routerLink="/user/edit" class="btn btn-dark">Edit</a>
+        </div>
+      </div>
+      <br />
+    </div>
+  </div>
+</div>

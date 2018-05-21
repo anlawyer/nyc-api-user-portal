@@ -1,5 +1,4 @@
 import { Component, OnInit } from '@angular/core';
-import { Http } from '@angular/http';
 
 @Component({
   selector: 'app-landing-page',
@@ -8,17 +7,8 @@ import { Http } from '@angular/http';
 })
 export class LandingPageComponent implements OnInit {
 
-  constructor(
-    // private http: Http
-  ) { }
+  constructor() { }
 
-  // callDB() {
-  //   this.http.get('/api/user')
-  //   .subscribe(res => console.log(res.json()));
-  // }
-
-  ngOnInit() {
-    // this.callDB();
-  }
+  ngOnInit() {}
 
 }
