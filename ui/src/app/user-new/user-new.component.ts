@@ -1,5 +1,6 @@
 import { Component, OnInit } from '@angular/core';
 import { Http } from '@angular/http';
+import { Router } from '@angular/router';
 
 @Component({
   selector: 'app-user-new',
@@ -9,26 +10,27 @@ import { Http } from '@angular/http';
 export class UserNewComponent implements OnInit {
 
   user = {
-    userName: '',
-    userEmail: '',
-    userZipCode: '',
-    userAgeRange: '',
-    userIndustry: ''
+    name: '',
+    email: '',
+    zip: '',
+    age_range: '',
+    industry: ''
   }
 
   constructor(
-    private http: Http
+    private http: Http,
+    private router: Router
   ) { }
 
   addNewUser(user) {
-    return this.http.post('/api/user', {user});
+    return this.http.post('/api/user', user);
   }
 
   onSubmit() {
     console.log(this.user);
     this.addNewUser(this.user)
-    // .subscribe(res => console.log(res.json()));
-    .subscribe(res => console.log(res.json()));
+    .subscribe(res => console.log(res.json()))
+     this.router.navigate(['user/list']);
   }
 
   ngOnInit() {
