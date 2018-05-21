@@ -16,7 +16,6 @@ export class UserListComponent implements OnInit {
 
   callDB() {
     this.http.get('/api/user')
-    // .subscribe(res => console.log(res.json()));
     .subscribe(res => this.users = res.json());
   }
 
