@@ -13,7 +13,7 @@ export class UserNewComponent implements OnInit {
     name: '',
     email: '',
     zip: '',
-    age_range: '',
+    ageRange: '',
     industry: ''
   }
 

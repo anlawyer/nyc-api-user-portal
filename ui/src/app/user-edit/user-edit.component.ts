@@ -10,13 +10,12 @@ import { Router } from '@angular/router';
 })
 export class UserEditComponent implements OnInit {
 
-  userToFind: any;
   currID: number;
   user = {
     name: '',
     email: '',
     zip: '',
-    age_range: '',
+    ageRange: '',
     industry: ''
   }
 
@@ -29,7 +28,7 @@ export class UserEditComponent implements OnInit {
   ngOnInit() {
     this.route.params.forEach( param => this.currID = param.id )
     this.UserService.getOneUser(this.currID)
-    .subscribe(res => this.userToFind = res.json())
+    .subscribe(res => this.user = res.json())
   }
 
   onSubmit() {

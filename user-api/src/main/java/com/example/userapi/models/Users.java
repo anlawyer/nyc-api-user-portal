@@ -21,8 +21,8 @@ public class Users {
     @Column(name = "ZIP")
     private Integer ZIP;
 
-    @Column(name = "AGE_RANGE")
-    private String AGE_RANGE;
+    @Column(name = "AGERANGE")
+    private String AGERANGE;
 
     @Column(name = "INDUSTRY")
     private String INDUSTRY;

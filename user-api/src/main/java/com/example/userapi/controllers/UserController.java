@@ -16,18 +16,27 @@ public class UserController {
        return userRepository.findAll();
    }
 
+   @GetMapping("/{userId}")
+   public Users findOne(@PathVariable Long userId) {
+     return userRepository.findOne(userId);
+   }
+
    @PostMapping("/")
    public Users createNewUser(@RequestBody Users newUser) {
      return userRepository.save(newUser);
    }
 
-   @GetMapping("/{userId}")
-   public Users findOne(@PathVariable Long userId) {
-       return userRepository.findOne(userId);
-   }
+   @PutMapping("/{userId}")
+   public Users updateUserById(@PathVariable Long userId, @RequestBody Users userRequest) {
 
-   @PatchMapping("/{userId}")
-   public Users updateUser(@PathVariable Long userId, @RequestBody Users updatedUser) {
-     return userRepository.patch(userId, updatedUser);
+       Users userFromDb = userRepository.findOne(userId);
+
+       userFromDb.setName(userRequest.getName());
+       userFromDb.setEmail(userRequest.getEmail());
+       userFromDb.setZip(userRequest.getZip());
+       userFromDb.setAgeRange(userRequest.getAgeRange());
+       userFromDb.setIndustry(userRequest.getIndustry());
+
+       return userRepository.save(userFromDb);
    }
 }
