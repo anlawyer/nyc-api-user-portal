@@ -31,12 +31,18 @@ public class UserController {
 
        Users userFromDb = userRepository.findOne(userId);
 
-       userFromDb.setName(userRequest.getName());
-       userFromDb.setEmail(userRequest.getEmail());
-       userFromDb.setZip(userRequest.getZip());
-       userFromDb.setAgeRange(userRequest.getAgeRange());
-       userFromDb.setIndustry(userRequest.getIndustry());
+       // userFromDb.setName(userRequest.name);
+       // userFromDb.setEmail(userRequest.email);
+       // userFromDb.setZip(userRequest.zip);
+       // userFromDb.setAgeRange(userRequest.ageRange);
+       // userFromDb.setIndustry(userRequest.industry);
 
        return userRepository.save(userFromDb);
+   }
+
+   @DeleteMapping("/{userId}")
+     public HttpStatus deleteUserById(@PathVariable Long userId) {
+        userRepository.delete(userId);
+     return HttpStatus.OK;
    }
 }

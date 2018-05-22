@@ -38,4 +38,10 @@ export class UserEditComponent implements OnInit {
      this.router.navigate(['user/list']);
   }
 
+  deleteUser() {
+    this.UserService.deleteUser(this.currID)
+    .subscribe(res => console.log(res.json()))
+    this.router.navigate(['user/list']);
+  }
+
 }
