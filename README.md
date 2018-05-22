@@ -26,3 +26,4 @@ cd ui
 npm install
 npm start
 ```
+and open your browser to http://localhost:4200/.
