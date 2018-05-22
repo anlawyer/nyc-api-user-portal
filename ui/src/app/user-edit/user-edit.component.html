@@ -1,10 +1,14 @@
 <nav class="navbar"></nav>
 <div class="container" *ngIf="user">
   <div class="row">
-    <div class="col-3">
-      <h5>Edit your account details, or delete your account.</h5>
+    <div class="col-4">
+      <h1>Edit account</h1>
+      <h3>Edit your account details, or delete your account.</h3>
+      <br />
+      <h5>Return to all accounts.</h5>
+      <a routerLink="/user/list" class="btn btn-dark btn-lg">All accounts</a>
     </div>
-    <div class="col-9">
+    <div class="col-8">
       <form (ngSubmit)="onSubmit()">
         <!-- name input -->
         <div class="form-group row">
@@ -75,10 +79,10 @@
             </select>
           </div>
         </div>
-        <button type="submit" class="btn btn-dark">Submit</button>
+        <button type="submit" class="btn btn-dark btn-lg">Submit</button>
         <br />
         <br />
-        <button type="button" class="btn btn-danger" (click)="deleteUser()">Delete Account</button>
+        <button type="button" class="btn btn-danger btn-lg" (click)="deleteUser()">Delete Account</button>
       </form>
     </div>
   </div>

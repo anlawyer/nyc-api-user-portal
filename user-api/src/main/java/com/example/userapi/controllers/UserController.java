@@ -31,11 +31,11 @@ public class UserController {
 
        Users userFromDb = userRepository.findOne(userId);
 
-       // userFromDb.setName(userRequest.name);
-       // userFromDb.setEmail(userRequest.email);
-       // userFromDb.setZip(userRequest.zip);
-       // userFromDb.setAgeRange(userRequest.ageRange);
-       // userFromDb.setIndustry(userRequest.industry);
+       userFromDb.setNAME(userRequest.getNAME());
+       userFromDb.setEMAIL(userRequest.getEMAIL());
+       userFromDb.setZIP(userRequest.getZIP());
+       userFromDb.setAGERANGE(userRequest.getAGERANGE());
+       userFromDb.setINDUSTRY(userRequest.getINDUSTRY());
 
        return userRepository.save(userFromDb);
    }

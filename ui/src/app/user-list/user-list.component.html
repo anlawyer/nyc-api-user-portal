@@ -1,20 +1,21 @@
 <nav class="navbar"></nav>
 <div class="container">
   <div class="row">
-    <div class="col">
-      <h3>All accounts</h3>
+    <div class="col-6">
+      <h1>All accounts</h1>
+      <h3>Click your account to edit or delete it.</h3>
+      <br />
+      <h5>Don't see your account? Create one below:</h5>
+      <a routerLink="/user/new" class="btn btn-dark btn-lg">Create new account</a>
     </div>
-  </div>
-  <div class="row" *ngIf="users">
-    <div class="col-6" *ngFor="let user of users">
-      <div class="card">
+    <div class="col-6" *ngIf="users">
+      <div class="card" *ngFor="let user of users" style="margin-bottom: 10px;">
         <div class="card-body">
           <h5 class="card-title">{{user.name}}</h5>
           <h6 class="card-subtitle mb-2 text-muted">{{user.email}}</h6>
-          <a routerLink="/user/edit/{{user.id}}" class="btn btn-dark">Edit Account</a>
+          <a routerLink="/user/edit/{{user.id}}" class="btn btn-dark btn-lg">Edit Account</a>
         </div>
       </div>
-      <br />
     </div>
   </div>
 </div>
