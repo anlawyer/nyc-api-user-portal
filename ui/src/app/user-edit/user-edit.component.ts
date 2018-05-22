@@ -20,7 +20,7 @@ export class UserEditComponent implements OnInit {
   ngOnInit() {
     this.route.params.forEach( param => this.currID = param.id )
     this.UserService.getOneUser(this.currID)
-    .subscribe(res => console.log(res))
+    .subscribe(res => this.user = res.json())
   }
 
 }

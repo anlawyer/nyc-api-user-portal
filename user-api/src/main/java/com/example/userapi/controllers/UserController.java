@@ -20,4 +20,9 @@ public class UserController {
    public Users createNewUser(@RequestBody Users newUser) {
      return userRepository.save(newUser);
    }
+
+   @GetMapping("/{userId}")
+   public Users findOne(@PathVariable Long userId) {
+       return userRepository.findOne(userId);
+   }
 }
