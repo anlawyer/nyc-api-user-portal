@@ -25,4 +25,9 @@ public class UserController {
    public Users findOne(@PathVariable Long userId) {
        return userRepository.findOne(userId);
    }
+
+   @PatchMapping("/{userId}")
+   public Users updateUser(@PathVariable Long userId, @RequestBody Users updatedUser) {
+     return userRepository.patch(userId, updatedUser);
+   }
 }
