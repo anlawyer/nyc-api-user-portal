@@ -1,0 +1,2704 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns:kml="http://earth.google.com/kml/2.2">
+  <Document id="featureCollection">
+<Style id="defaultStyle">
+  <LineStyle>
+    <width>1.5</width>
+  </LineStyle>
+  <PolyStyle>
+    <color>7d8a30c4</color>
+  </PolyStyle>
+</Style>
+  <Folder><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      <name>Wakefield</name>
+      <ExtendedData>
+        <Data name="borough"><value>Bronx</value></Data><Data name="objectid"><value>1</value></Data><Data name="annoline3"><value></value></Data><Data name="annoangle"><value>0.0</value></Data><Data name="stacked"><value>1</value></Data><Data name="annoline1"><value>Wakefield</value></Data><Data name="annoline2"><value></value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -73.8472005205491,40.89470517661004
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      <name>Co-op City</name>
+      <ExtendedData>
+        <Data name="borough"><value>Bronx</value></Data><Data name="objectid"><value>2</value></Data><Data name="annoline3"><value></value></Data><Data name="annoangle"><value>0.0</value></Data><Data name="stacked"><value>2</value></Data><Data name="annoline1"><value>Co-op</value></Data><Data name="annoline2"><value>City</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -73.82993910812405,40.87429419303015
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      <name>Eastchester</name>
+      <ExtendedData>
+        <Data name="borough"><value>Bronx</value></Data><Data name="objectid"><value>3</value></Data><Data name="annoline3"><value></value></Data><Data name="annoangle"><value>0.0</value></Data><Data name="stacked"><value>1</value></Data><Data name="annoline1"><value>Eastchester</value></Data><Data name="annoline2"><value></value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -73.82780644716419,40.88755567735082
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      <name>Fieldston</name>
+      <ExtendedData>
+        <Data name="borough"><value>Bronx</value></Data><Data name="objectid"><value>4</value></Data><Data name="annoline3"><value></value></Data><Data name="annoangle"><value>0.0</value></Data><Data name="stacked"><value>1</value></Data><Data name="annoline1"><value>Fieldston</value></Data><Data name="annoline2"><value></value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -73.90564259591689,40.895437426903875
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      <name>Riverdale</name>
+      <ExtendedData>
+        <Data name="borough"><value>Bronx</value></Data><Data name="objectid"><value>5</value></Data><Data name="annoline3"><value></value></Data><Data name="annoangle"><value>0.0</value></Data><Data name="stacked"><value>1</value></Data><Data name="annoline1"><value>Riverdale</value></Data><Data name="annoline2"><value></value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -73.91258546108577,40.89083449389134
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      <name>Kingsbridge</name>
+      <ExtendedData>
+        <Data name="borough"><value>Bronx</value></Data><Data name="objectid"><value>6</value></Data><Data name="annoline3"><value></value></Data><Data name="annoangle"><value>0.0</value></Data><Data name="stacked"><value>1</value></Data><Data name="annoline1"><value>Kingsbridge</value></Data><Data name="annoline2"><value></value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -73.90281798724611,40.88168737120525
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      <name>Marble Hill</name>
+      <ExtendedData>
+        <Data name="borough"><value>Manhattan</value></Data><Data name="objectid"><value>7</value></Data><Data name="annoline3"><value></value></Data><Data name="annoangle"><value>0.0</value></Data><Data name="stacked"><value>2</value></Data><Data name="annoline1"><value>Marble</value></Data><Data name="annoline2"><value>Hill</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -73.91065965862988,40.87655077879968
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      <name>Woodlawn</name>
+      <ExtendedData>
+        <Data name="borough"><value>Bronx</value></Data><Data name="objectid"><value>8</value></Data><Data name="annoline3"><value></value></Data><Data name="annoangle"><value>0.0</value></Data><Data name="stacked"><value>1</value></Data><Data name="annoline1"><value>Woodlawn</value></Data><Data name="annoline2"><value></value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -73.86731496814183,40.898272612138086
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      <name>Norwood</name>
+      <ExtendedData>
+        <Data name="borough"><value>Bronx</value></Data><Data name="objectid"><value>9</value></Data><Data name="annoline3"><value></value></Data><Data name="annoangle"><value>0.0</value></Data><Data name="stacked"><value>1</value></Data><Data name="annoline1"><value>Norwood</value></Data><Data name="annoline2"><value></value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -73.87939073956817,40.877224155994504
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      <name>Williamsbridge</name>
+      <ExtendedData>
+        <Data name="borough"><value>Bronx</value></Data><Data name="objectid"><value>10</value></Data><Data name="annoline3"><value></value></Data><Data name="annoangle"><value>0.0</value></Data><Data name="stacked"><value>1</value></Data><Data name="annoline1"><value>Williamsbridge</value></Data><Data name="annoline2"><value></value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -73.85744642974214,40.88103887819214
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      <name>Baychester</name>
+      <ExtendedData>
+        <Data name="borough"><value>Bronx</value></Data><Data name="objectid"><value>11</value></Data><Data name="annoline3"><value></value></Data><Data name="annoangle"><value>0.0</value></Data><Data name="stacked"><value>1</value></Data><Data name="annoline1"><value>Baychester</value></Data><Data name="annoline2"><value></value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -73.83579759808124,40.86685810725274
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      <name>Pelham Parkway</name>
+      <ExtendedData>
+        <Data name="borough"><value>Bronx</value></Data><Data name="objectid"><value>12</value></Data><Data name="annoline3"><value></value></Data><Data name="annoangle"><value>0.0</value></Data><Data name="stacked"><value>1</value></Data><Data name="annoline1"><value>Pelham Parkway</value></Data><Data name="annoline2"><value></value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -73.85475564018006,40.85741349808869
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      <name>City Island</name>
+      <ExtendedData>
+        <Data name="borough"><value>Bronx</value></Data><Data name="objectid"><value>13</value></Data><Data name="annoline3"><value></value></Data><Data name="annoangle"><value>0.0</value></Data><Data name="stacked"><value>2</value></Data><Data name="annoline1"><value>City</value></Data><Data name="annoline2"><value>Island</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -73.7864884526742,40.84724670491817
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      <name>Bedford Park</name>
+      <ExtendedData>
+        <Data name="borough"><value>Bronx</value></Data><Data name="objectid"><value>14</value></Data><Data name="annoline3"><value></value></Data><Data name="annoangle"><value>0.0</value></Data><Data name="stacked"><value>2</value></Data><Data name="annoline1"><value>Bedford</value></Data><Data name="annoline2"><value>Park</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -73.88551218419137,40.87018516497537
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      <name>University Heights</name>
+      <ExtendedData>
+        <Data name="borough"><value>Bronx</value></Data><Data name="objectid"><value>15</value></Data><Data name="annoline3"><value></value></Data><Data name="annoangle"><value>0.0</value></Data><Data name="stacked"><value>2</value></Data><Data name="annoline1"><value>University</value></Data><Data name="annoline2"><value>Heights</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -73.91041596191317,40.85572707719668
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      <name>Morris Heights</name>
+      <ExtendedData>
+        <Data name="borough"><value>Bronx</value></Data><Data name="objectid"><value>16</value></Data><Data name="annoline3"><value></value></Data><Data name="annoangle"><value>0.0</value></Data><Data name="stacked"><value>2</value></Data><Data name="annoline1"><value>Morris</value></Data><Data name="annoline2"><value>Heights</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -73.91967159119572,40.84789792606274
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      <name>Fordham</name>
+      <ExtendedData>
+        <Data name="borough"><value>Bronx</value></Data><Data name="objectid"><value>17</value></Data><Data name="annoline3"><value></value></Data><Data name="annoangle"><value>0.0</value></Data><Data name="stacked"><value>1</value></Data><Data name="annoline1"><value>Fordham</value></Data><Data name="annoline2"><value></value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -73.8964265598163,40.86099679638657
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      <name>East Tremont</name>
+      <ExtendedData>
+        <Data name="borough"><value>Bronx</value></Data><Data name="objectid"><value>18</value></Data><Data name="annoline3"><value></value></Data><Data name="annoangle"><value>0.0</value></Data><Data name="stacked"><value>2</value></Data><Data name="annoline1"><value>East</value></Data><Data name="annoline2"><value>Tremont</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -73.88735617532345,40.84269615786057
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      <name>West Farms</name>
+      <ExtendedData>
+        <Data name="borough"><value>Bronx</value></Data><Data name="objectid"><value>19</value></Data><Data name="annoline3"><value></value></Data><Data name="annoangle"><value>0.0</value></Data><Data name="stacked"><value>2</value></Data><Data name="annoline1"><value>West</value></Data><Data name="annoline2"><value>Farms</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -73.87774474910552,40.83947505672657
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      <name>High  Bridge</name>
+      <ExtendedData>
+        <Data name="borough"><value>Bronx</value></Data><Data name="objectid"><value>20</value></Data><Data name="annoline3"><value></value></Data><Data name="annoangle"><value>0.0</value></Data><Data name="stacked"><value>2</value></Data><Data name="annoline1"><value>High</value></Data><Data name="annoline2"><value>Bridge</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -73.92610209358138,40.8366230107061
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      <name>Melrose</name>
+      <ExtendedData>
+        <Data name="borough"><value>Bronx</value></Data><Data name="objectid"><value>21</value></Data><Data name="annoline3"><value></value></Data><Data name="annoangle"><value>0.0</value></Data><Data name="stacked"><value>1</value></Data><Data name="annoline1"><value>Melrose</value></Data><Data name="annoline2"><value></value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -73.90942160757443,40.81975437059498
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      <name>Mott Haven</name>
+      <ExtendedData>
+        <Data name="borough"><value>Bronx</value></Data><Data name="objectid"><value>22</value></Data><Data name="annoline3"><value></value></Data><Data name="annoangle"><value>0.0</value></Data><Data name="stacked"><value>1</value></Data><Data name="annoline1"><value>Mott Haven</value></Data><Data name="annoline2"><value></value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -73.91609987487583,40.80623874935181
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      <name>Port Morris</name>
+      <ExtendedData>
+        <Data name="borough"><value>Bronx</value></Data><Data name="objectid"><value>23</value></Data><Data name="annoline3"><value></value></Data><Data name="annoangle"><value>0.0</value></Data><Data name="stacked"><value>2</value></Data><Data name="annoline1"><value>Port</value></Data><Data name="annoline2"><value>Morris</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -73.91322139386142,40.80166362775625
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      <name>Longwood</name>
+      <ExtendedData>
+        <Data name="borough"><value>Bronx</value></Data><Data name="objectid"><value>24</value></Data><Data name="annoline3"><value></value></Data><Data name="annoangle"><value>0.0</value></Data><Data name="stacked"><value>1</value></Data><Data name="annoline1"><value>Longwood</value></Data><Data name="annoline2"><value></value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -73.89578820094466,40.815099045458254
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      <name>Hunts Point</name>
+      <ExtendedData>
+        <Data name="borough"><value>Bronx</value></Data><Data name="objectid"><value>25</value></Data><Data name="annoline3"><value></value></Data><Data name="annoangle"><value>0.0</value></Data><Data name="stacked"><value>2</value></Data><Data name="annoline1"><value>Hunts</value></Data><Data name="annoline2"><value>Point</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -73.88331505955298,40.809729879387135
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      <name>Morrisania</name>
+      <ExtendedData>
+        <Data name="borough"><value>Bronx</value></Data><Data name="objectid"><value>26</value></Data><Data name="annoline3"><value></value></Data><Data name="annoangle"><value>0.0</value></Data><Data name="stacked"><value>1</value></Data><Data name="annoline1"><value>Morrisania</value></Data><Data name="annoline2"><value></value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -73.90150648943066,40.82359198585537
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      <name>Soundview</name>
+      <ExtendedData>
+        <Data name="borough"><value>Bronx</value></Data><Data name="objectid"><value>27</value></Data><Data name="annoline3"><value></value></Data><Data name="annoangle"><value>0.0</value></Data><Data name="stacked"><value>1</value></Data><Data name="annoline1"><value>Soundview</value></Data><Data name="annoline2"><value></value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -73.86574609554933,40.82101219791406
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      <name>Clason Point</name>
+      <ExtendedData>
+        <Data name="borough"><value>Bronx</value></Data><Data name="objectid"><value>28</value></Data><Data name="annoline3"><value></value></Data><Data name="annoangle"><value>0.0</value></Data><Data name="stacked"><value>2</value></Data><Data name="annoline1"><value>Clason</value></Data><Data name="annoline2"><value>Point</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -73.85414416189273,40.806551120035934
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      <name>Throgs Neck</name>
+      <ExtendedData>
+        <Data name="borough"><value>Bronx</value></Data><Data name="objectid"><value>29</value></Data><Data name="annoline3"><value></value></Data><Data name="annoangle"><value>0.0</value></Data><Data name="stacked"><value>1</value></Data><Data name="annoline1"><value>Throgs Neck</value></Data><Data name="annoline2"><value></value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -73.8163500215845,40.815109258040096
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      <name>Country Club</name>
+      <ExtendedData>
+        <Data name="borough"><value>Bronx</value></Data><Data name="objectid"><value>30</value></Data><Data name="annoline3"><value></value></Data><Data name="annoangle"><value>0.0</value></Data><Data name="stacked"><value>2</value></Data><Data name="annoline1"><value>Country</value></Data><Data name="annoline2"><value>Club</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -73.82409926753857,40.84424593694742
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      <name>Parkchester</name>
+      <ExtendedData>
+        <Data name="borough"><value>Bronx</value></Data><Data name="objectid"><value>31</value></Data><Data name="annoline3"><value></value></Data><Data name="annoangle"><value>0.0</value></Data><Data name="stacked"><value>1</value></Data><Data name="annoline1"><value>Parkchester</value></Data><Data name="annoline2"><value></value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -73.8560031053579,40.83793782226733
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      <name>Westchester Square</name>
+      <ExtendedData>
+        <Data name="borough"><value>Bronx</value></Data><Data name="objectid"><value>32</value></Data><Data name="annoline3"><value></value></Data><Data name="annoangle"><value>0.0</value></Data><Data name="stacked"><value>2</value></Data><Data name="annoline1"><value>Westchester</value></Data><Data name="annoline2"><value>Square</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -73.8421940760445,40.840619496432744
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      <name>Van Nest</name>
+      <ExtendedData>
+        <Data name="borough"><value>Bronx</value></Data><Data name="objectid"><value>33</value></Data><Data name="annoline3"><value></value></Data><Data name="annoangle"><value>0.0</value></Data><Data name="stacked"><value>2</value></Data><Data name="annoline1"><value>Van</value></Data><Data name="annoline2"><value>Nest</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -73.86629918075617,40.84360847124722
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      <name>Morris Park</name>
+      <ExtendedData>
+        <Data name="borough"><value>Bronx</value></Data><Data name="objectid"><value>34</value></Data><Data name="annoline3"><value></value></Data><Data name="annoangle"><value>0.0</value></Data><Data name="stacked"><value>1</value></Data><Data name="annoline1"><value>Morris Park</value></Data><Data name="annoline2"><value></value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -73.85040178030428,40.84754906353638
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      <name>Belmont</name>
+      <ExtendedData>
+        <Data name="borough"><value>Bronx</value></Data><Data name="objectid"><value>35</value></Data><Data name="annoline3"><value></value></Data><Data name="annoangle"><value>0.0</value></Data><Data name="stacked"><value>1</value></Data><Data name="annoline1"><value>Belmont</value></Data><Data name="annoline2"><value></value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -73.88845196134812,40.85727710073898
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      <name>Spuyten Duyvil</name>
+      <ExtendedData>
+        <Data name="borough"><value>Bronx</value></Data><Data name="objectid"><value>36</value></Data><Data name="annoline3"><value></value></Data><Data name="annoangle"><value>0.0</value></Data><Data name="stacked"><value>2</value></Data><Data name="annoline1"><value>Spuyten</value></Data><Data name="annoline2"><value>Duyvil</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -73.917190482104,40.8813949772709
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      <name>North Riverdale</name>
+      <ExtendedData>
+        <Data name="borough"><value>Bronx</value></Data><Data name="objectid"><value>37</value></Data><Data name="annoline3"><value></value></Data><Data name="annoangle"><value>0.0</value></Data><Data name="stacked"><value>2</value></Data><Data name="annoline1"><value>North</value></Data><Data name="annoline2"><value>Riverdale</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -73.90453054908934,40.9085428295067
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      <name>Pelham Bay</name>
+      <ExtendedData>
+        <Data name="borough"><value>Bronx</value></Data><Data name="objectid"><value>38</value></Data><Data name="annoline3"><value></value></Data><Data name="annoangle"><value>0.0</value></Data><Data name="stacked"><value>2</value></Data><Data name="annoline1"><value>Pelham</value></Data><Data name="annoline2"><value>Bay</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -73.83207378240478,40.85064140940339
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      <name>Schuylerville</name>
+      <ExtendedData>
+        <Data name="borough"><value>Bronx</value></Data><Data name="objectid"><value>39</value></Data><Data name="annoline3"><value></value></Data><Data name="annoangle"><value>0.0</value></Data><Data name="stacked"><value>1</value></Data><Data name="annoline1"><value>Schuylerville</value></Data><Data name="annoline2"><value></value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -73.82620275994081,40.82657951686926
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      <name>Edgewater Park</name>
+      <ExtendedData>
+        <Data name="borough"><value>Bronx</value></Data><Data name="objectid"><value>40</value></Data><Data name="annoline3"><value></value></Data><Data name="annoangle"><value>0.0</value></Data><Data name="stacked"><value>2</value></Data><Data name="annoline1"><value>Edgewater</value></Data><Data name="annoline2"><value>Park</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -73.81388514428627,40.82198611816354
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      <name>Castle Hill</name>
+      <ExtendedData>
+        <Data name="borough"><value>Bronx</value></Data><Data name="objectid"><value>41</value></Data><Data name="annoline3"><value></value></Data><Data name="annoangle"><value>0.0</value></Data><Data name="stacked"><value>2</value></Data><Data name="annoline1"><value>Castle</value></Data><Data name="annoline2"><value>Hill</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -73.84802729582742,40.81901437698835
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      <name>Olinville</name>
+      <ExtendedData>
+        <Data name="borough"><value>Bronx</value></Data><Data name="objectid"><value>42</value></Data><Data name="annoline3"><value></value></Data><Data name="annoangle"><value>0.0</value></Data><Data name="stacked"><value>1</value></Data><Data name="annoline1"><value>Olinville</value></Data><Data name="annoline2"><value></value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -73.86332361652784,40.87137078192375
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      <name>Pelham Gardens</name>
+      <ExtendedData>
+        <Data name="borough"><value>Bronx</value></Data><Data name="objectid"><value>43</value></Data><Data name="annoline3"><value></value></Data><Data name="annoangle"><value>0.0</value></Data><Data name="stacked"><value>2</value></Data><Data name="annoline1"><value>Pelham</value></Data><Data name="annoline2"><value>Gardens</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -73.8416119483123,40.862965624780024
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      <name>Concourse</name>
+      <ExtendedData>
+        <Data name="borough"><value>Bronx</value></Data><Data name="objectid"><value>44</value></Data><Data name="annoline3"><value></value></Data><Data name="annoangle"><value>0.0</value></Data><Data name="stacked"><value>1</value></Data><Data name="annoline1"><value>Concourse</value></Data><Data name="annoline2"><value></value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -73.91558941773451,40.834283807338544
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      <name>Unionport</name>
+      <ExtendedData>
+        <Data name="borough"><value>Bronx</value></Data><Data name="objectid"><value>45</value></Data><Data name="annoline3"><value></value></Data><Data name="annoangle"><value>0.0</value></Data><Data name="stacked"><value>1</value></Data><Data name="annoline1"><value>Unionport</value></Data><Data name="annoline2"><value></value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -73.85053524451942,40.82977429787165
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      <name>Edenwald</name>
+      <ExtendedData>
+        <Data name="borough"><value>Bronx</value></Data><Data name="objectid"><value>46</value></Data><Data name="annoline3"><value></value></Data><Data name="annoangle"><value>0.0</value></Data><Data name="stacked"><value>1</value></Data><Data name="annoline1"><value>Edenwald</value></Data><Data name="annoline2"><value></value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -73.84808271877175,40.88456130303736
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      <name>Bay Ridge</name>
+      <ExtendedData>
+        <Data name="borough"><value>Brooklyn</value></Data><Data name="objectid"><value>47</value></Data><Data name="annoline3"><value></value></Data><Data name="annoangle"><value>0.0</value></Data><Data name="stacked"><value>1</value></Data><Data name="annoline1"><value>Bay Ridge</value></Data><Data name="annoline2"><value></value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -74.03062069353821,40.62580106501069
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      <name>Bensonhurst</name>
+      <ExtendedData>
+        <Data name="borough"><value>Brooklyn</value></Data><Data name="objectid"><value>48</value></Data><Data name="annoline3"><value></value></Data><Data name="annoangle"><value>0.0</value></Data><Data name="stacked"><value>1</value></Data><Data name="annoline1"><value>Bensonhurst</value></Data><Data name="annoline2"><value></value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -73.99517998380736,40.61100890202048
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      <name>Sunset Park</name>
+      <ExtendedData>
+        <Data name="borough"><value>Brooklyn</value></Data><Data name="objectid"><value>49</value></Data><Data name="annoline3"><value></value></Data><Data name="annoangle"><value>0.0</value></Data><Data name="stacked"><value>2</value></Data><Data name="annoline1"><value>Sunset</value></Data><Data name="annoline2"><value>Park</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -74.01031618527792,40.64510294925433
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      <name>Greenpoint</name>
+      <ExtendedData>
+        <Data name="borough"><value>Brooklyn</value></Data><Data name="objectid"><value>50</value></Data><Data name="annoline3"><value></value></Data><Data name="annoangle"><value>0.0</value></Data><Data name="stacked"><value>1</value></Data><Data name="annoline1"><value>Greenpoint</value></Data><Data name="annoline2"><value></value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -73.954240931274,40.730200984864744
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      <name>Gravesend</name>
+      <ExtendedData>
+        <Data name="borough"><value>Brooklyn</value></Data><Data name="objectid"><value>51</value></Data><Data name="annoline3"><value></value></Data><Data name="annoangle"><value>0.0</value></Data><Data name="stacked"><value>1</value></Data><Data name="annoline1"><value>Gravesend</value></Data><Data name="annoline2"><value></value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -73.97347087708452,40.59526001306597
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      <name>Brighton Beach</name>
+      <ExtendedData>
+        <Data name="borough"><value>Brooklyn</value></Data><Data name="objectid"><value>52</value></Data><Data name="annoline3"><value></value></Data><Data name="annoangle"><value>0.0</value></Data><Data name="stacked"><value>2</value></Data><Data name="annoline1"><value>Brighton</value></Data><Data name="annoline2"><value>Beach</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -73.96509448785343,40.576825065666085
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      <name>Sheepshead Bay</name>
+      <ExtendedData>
+        <Data name="borough"><value>Brooklyn</value></Data><Data name="objectid"><value>53</value></Data><Data name="annoline3"><value></value></Data><Data name="annoangle"><value>0.0</value></Data><Data name="stacked"><value>2</value></Data><Data name="annoline1"><value>Sheepshead</value></Data><Data name="annoline2"><value>Bay</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -73.94318640482987,40.58689012678388
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      <name>Manhattan Terrace</name>
+      <ExtendedData>
+        <Data name="borough"><value>Brooklyn</value></Data><Data name="objectid"><value>54</value></Data><Data name="annoline3"><value></value></Data><Data name="annoangle"><value>0.0</value></Data><Data name="stacked"><value>2</value></Data><Data name="annoline1"><value>Manhattan</value></Data><Data name="annoline2"><value>Terrace</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -73.95743840559946,40.61443251335102
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      <name>Flatbush</name>
+      <ExtendedData>
+        <Data name="borough"><value>Brooklyn</value></Data><Data name="objectid"><value>55</value></Data><Data name="annoline3"><value></value></Data><Data name="annoangle"><value>0.0</value></Data><Data name="stacked"><value>1</value></Data><Data name="annoline1"><value>Flatbush</value></Data><Data name="annoline2"><value></value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -73.95840106533912,40.63632589026681
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      <name>Crown Heights</name>
+      <ExtendedData>
+        <Data name="borough"><value>Brooklyn</value></Data><Data name="objectid"><value>56</value></Data><Data name="annoline3"><value></value></Data><Data name="annoangle"><value>0.0</value></Data><Data name="stacked"><value>2</value></Data><Data name="annoline1"><value>Crown</value></Data><Data name="annoline2"><value>Heights</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -73.9432911907359,40.67082917695298
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      <name>East Flatbush</name>
+      <ExtendedData>
+        <Data name="borough"><value>Brooklyn</value></Data><Data name="objectid"><value>57</value></Data><Data name="annoline3"><value></value></Data><Data name="annoangle"><value>0.0</value></Data><Data name="stacked"><value>1</value></Data><Data name="annoline1"><value>East Flatbush</value></Data><Data name="annoline2"><value></value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -73.93610256185843,40.64171776668965
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      <name>Kensington</name>
+      <ExtendedData>
+        <Data name="borough"><value>Brooklyn</value></Data><Data name="objectid"><value>58</value></Data><Data name="annoline3"><value></value></Data><Data name="annoangle"><value>0.0</value></Data><Data name="stacked"><value>1</value></Data><Data name="annoline1"><value>Kensington</value></Data><Data name="annoline2"><value></value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -73.98042110559481,40.64238195800357
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      <name>Windsor Terrace</name>
+      <ExtendedData>
+        <Data name="borough"><value>Brooklyn</value></Data><Data name="objectid"><value>59</value></Data><Data name="annoline3"><value></value></Data><Data name="annoangle"><value>0.0</value></Data><Data name="stacked"><value>2</value></Data><Data name="annoline1"><value>Windsor</value></Data><Data name="annoline2"><value>Terrace</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -73.98007340430179,40.65694583575108
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      <name>Prospect Heights</name>
+      <ExtendedData>
+        <Data name="borough"><value>Brooklyn</value></Data><Data name="objectid"><value>60</value></Data><Data name="annoline3"><value></value></Data><Data name="annoangle"><value>0.0</value></Data><Data name="stacked"><value>2</value></Data><Data name="annoline1"><value>Prospect</value></Data><Data name="annoline2"><value>Heights</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -73.96485924262697,40.67682226225477
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      <name>Brownsville</name>
+      <ExtendedData>
+        <Data name="borough"><value>Brooklyn</value></Data><Data name="objectid"><value>61</value></Data><Data name="annoline3"><value></value></Data><Data name="annoangle"><value>0.0</value></Data><Data name="stacked"><value>1</value></Data><Data name="annoline1"><value>Brownsville</value></Data><Data name="annoline2"><value></value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -73.91023536176615,40.66394994339758
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      <name>Williamsburg</name>
+      <ExtendedData>
+        <Data name="borough"><value>Brooklyn</value></Data><Data name="objectid"><value>62</value></Data><Data name="annoline3"><value></value></Data><Data name="annoangle"><value>0.0</value></Data><Data name="stacked"><value>1</value></Data><Data name="annoline1"><value>Williamsburg</value></Data><Data name="annoline2"><value></value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -73.95811529220936,40.70714439344255
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      <name>Bushwick</name>
+      <ExtendedData>
+        <Data name="borough"><value>Brooklyn</value></Data><Data name="objectid"><value>63</value></Data><Data name="annoline3"><value></value></Data><Data name="annoangle"><value>0.0</value></Data><Data name="stacked"><value>1</value></Data><Data name="annoline1"><value>Bushwick</value></Data><Data name="annoline2"><value></value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -73.92525797487053,40.69811611017905
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      <name>Bedford Stuyvesant</name>
+      <ExtendedData>
+        <Data name="borough"><value>Brooklyn</value></Data><Data name="objectid"><value>64</value></Data><Data name="annoline3"><value></value></Data><Data name="annoangle"><value>0.0</value></Data><Data name="stacked"><value>1</value></Data><Data name="annoline1"><value>Bedford Stuyvesant</value></Data><Data name="annoline2"><value></value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -73.94178488690304,40.6872316077205
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      <name>Brooklyn Heights</name>
+      <ExtendedData>
+        <Data name="borough"><value>Brooklyn</value></Data><Data name="objectid"><value>65</value></Data><Data name="annoline3"><value></value></Data><Data name="annoangle"><value>0.0</value></Data><Data name="stacked"><value>2</value></Data><Data name="annoline1"><value>Brooklyn</value></Data><Data name="annoline2"><value>Heights</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -73.99378225496432,40.69586372272413
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      <name>Cobble Hill</name>
+      <ExtendedData>
+        <Data name="borough"><value>Brooklyn</value></Data><Data name="objectid"><value>66</value></Data><Data name="annoline3"><value></value></Data><Data name="annoangle"><value>0.0</value></Data><Data name="stacked"><value>2</value></Data><Data name="annoline1"><value>Cobble</value></Data><Data name="annoline2"><value>Hill</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -73.9985613921847,40.68791972248561
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      <name>Carroll Gardens</name>
+      <ExtendedData>
+        <Data name="borough"><value>Brooklyn</value></Data><Data name="objectid"><value>67</value></Data><Data name="annoline3"><value></value></Data><Data name="annoangle"><value>0.0</value></Data><Data name="stacked"><value>2</value></Data><Data name="annoline1"><value>Carroll</value></Data><Data name="annoline2"><value>Gardens</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -74.00037274122076,40.68213188564184
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      <name>Red Hook</name>
+      <ExtendedData>
+        <Data name="borough"><value>Brooklyn</value></Data><Data name="objectid"><value>68</value></Data><Data name="annoline3"><value></value></Data><Data name="annoangle"><value>0.0</value></Data><Data name="stacked"><value>2</value></Data><Data name="annoline1"><value>Red</value></Data><Data name="annoline2"><value>Hook</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -74.01275897473568,40.67625323025092
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      <name>Gowanus</name>
+      <ExtendedData>
+        <Data name="borough"><value>Brooklyn</value></Data><Data name="objectid"><value>69</value></Data><Data name="annoline3"><value></value></Data><Data name="annoangle"><value>0.0</value></Data><Data name="stacked"><value>1</value></Data><Data name="annoline1"><value>Gowanus</value></Data><Data name="annoline2"><value></value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -73.99444087145346,40.6739311431872
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      <name>Fort Greene</name>
+      <ExtendedData>
+        <Data name="borough"><value>Brooklyn</value></Data><Data name="objectid"><value>70</value></Data><Data name="annoline3"><value></value></Data><Data name="annoangle"><value>0.0</value></Data><Data name="stacked"><value>2</value></Data><Data name="annoline1"><value>Fort</value></Data><Data name="annoline2"><value>Greene</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -73.97290574369099,40.688527260189815
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      <name>Park Slope</name>
+      <ExtendedData>
+        <Data name="borough"><value>Brooklyn</value></Data><Data name="objectid"><value>71</value></Data><Data name="annoline3"><value></value></Data><Data name="annoangle"><value>0.0</value></Data><Data name="stacked"><value>2</value></Data><Data name="annoline1"><value>Park</value></Data><Data name="annoline2"><value>Slope</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -73.97705030183931,40.672320522682014
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      <name>Cypress Hills</name>
+      <ExtendedData>
+        <Data name="borough"><value>Brooklyn</value></Data><Data name="objectid"><value>72</value></Data><Data name="annoline3"><value></value></Data><Data name="annoangle"><value>0.0</value></Data><Data name="stacked"><value>2</value></Data><Data name="annoline1"><value>Cypress</value></Data><Data name="annoline2"><value>Hills</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -73.87583132262635,40.6846357939163
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      <name>East New York</name>
+      <ExtendedData>
+        <Data name="borough"><value>Brooklyn</value></Data><Data name="objectid"><value>73</value></Data><Data name="annoline3"><value></value></Data><Data name="annoangle"><value>0.0</value></Data><Data name="stacked"><value>1</value></Data><Data name="annoline1"><value>East New York</value></Data><Data name="annoline2"><value></value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -73.88069863917373,40.66992570084708
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      <name>Starrett City</name>
+      <ExtendedData>
+        <Data name="borough"><value>Brooklyn</value></Data><Data name="objectid"><value>74</value></Data><Data name="annoline3"><value></value></Data><Data name="annoangle"><value>0.0</value></Data><Data name="stacked"><value>2</value></Data><Data name="annoline1"><value>Starrett</value></Data><Data name="annoline2"><value>City</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -73.87936970045882,40.64758905230878
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      <name>Canarsie</name>
+      <ExtendedData>
+        <Data name="borough"><value>Brooklyn</value></Data><Data name="objectid"><value>75</value></Data><Data name="annoline3"><value></value></Data><Data name="annoangle"><value>0.0</value></Data><Data name="stacked"><value>1</value></Data><Data name="annoline1"><value>Canarsie</value></Data><Data name="annoline2"><value></value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -73.90209269778973,40.63556432797432
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      <name>Flatlands</name>
+      <ExtendedData>
+        <Data name="borough"><value>Brooklyn</value></Data><Data name="objectid"><value>76</value></Data><Data name="annoline3"><value></value></Data><Data name="annoangle"><value>0.0</value></Data><Data name="stacked"><value>1</value></Data><Data name="annoline1"><value>Flatlands</value></Data><Data name="annoline2"><value></value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -73.92911302644681,40.6304460437575
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      <name>Mill Island</name>
+      <ExtendedData>
+        <Data name="borough"><value>Brooklyn</value></Data><Data name="objectid"><value>77</value></Data><Data name="annoline3"><value></value></Data><Data name="annoangle"><value>0.0</value></Data><Data name="stacked"><value>2</value></Data><Data name="annoline1"><value>Mill</value></Data><Data name="annoline2"><value>Island</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -73.90818571777432,40.60633642168567
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      <name>Manhattan Beach</name>
+      <ExtendedData>
+        <Data name="borough"><value>Brooklyn</value></Data><Data name="objectid"><value>78</value></Data><Data name="annoline3"><value></value></Data><Data name="annoangle"><value>0.0</value></Data><Data name="stacked"><value>2</value></Data><Data name="annoline1"><value>Manhattan</value></Data><Data name="annoline2"><value>Beach</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -73.94353722891894,40.57791350308661
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      <name>Coney Island</name>
+      <ExtendedData>
+        <Data name="borough"><value>Brooklyn</value></Data><Data name="objectid"><value>79</value></Data><Data name="annoline3"><value></value></Data><Data name="annoangle"><value>0.0</value></Data><Data name="stacked"><value>1</value></Data><Data name="annoline1"><value>Coney Island</value></Data><Data name="annoline2"><value></value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -73.98868295821644,40.57429256471605
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      <name>Bath Beach</name>
+      <ExtendedData>
+        <Data name="borough"><value>Brooklyn</value></Data><Data name="objectid"><value>80</value></Data><Data name="annoline3"><value></value></Data><Data name="annoangle"><value>0.0</value></Data><Data name="stacked"><value>2</value></Data><Data name="annoline1"><value>Bath</value></Data><Data name="annoline2"><value>Beach</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -73.99875221443526,40.599518702822415
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      <name>Borough Park</name>
+      <ExtendedData>
+        <Data name="borough"><value>Brooklyn</value></Data><Data name="objectid"><value>81</value></Data><Data name="annoline3"><value></value></Data><Data name="annoangle"><value>0.0</value></Data><Data name="stacked"><value>2</value></Data><Data name="annoline1"><value>Borough</value></Data><Data name="annoline2"><value>Park</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -73.99049823044818,40.63313051275805
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      <name>Dyker Heights</name>
+      <ExtendedData>
+        <Data name="borough"><value>Brooklyn</value></Data><Data name="objectid"><value>82</value></Data><Data name="annoline3"><value></value></Data><Data name="annoangle"><value>0.0</value></Data><Data name="stacked"><value>2</value></Data><Data name="annoline1"><value>Dyker</value></Data><Data name="annoline2"><value>Heights</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -74.01931375636029,40.61921945772268
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      <name>Gerritsen Beach</name>
+      <ExtendedData>
+        <Data name="borough"><value>Brooklyn</value></Data><Data name="objectid"><value>83</value></Data><Data name="annoline3"><value></value></Data><Data name="annoangle"><value>0.0</value></Data><Data name="stacked"><value>2</value></Data><Data name="annoline1"><value>Gerritsen</value></Data><Data name="annoline2"><value>Beach</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -73.93010170691203,40.59084843390208
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      <name>Marine Park</name>
+      <ExtendedData>
+        <Data name="borough"><value>Brooklyn</value></Data><Data name="objectid"><value>84</value></Data><Data name="annoline3"><value></value></Data><Data name="annoangle"><value>0.0</value></Data><Data name="stacked"><value>1</value></Data><Data name="annoline1"><value>Marine Park</value></Data><Data name="annoline2"><value></value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -73.93134404108504,40.60974777989464
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      <name>Clinton Hill</name>
+      <ExtendedData>
+        <Data name="borough"><value>Brooklyn</value></Data><Data name="objectid"><value>85</value></Data><Data name="annoline3"><value></value></Data><Data name="annoangle"><value>0.0</value></Data><Data name="stacked"><value>2</value></Data><Data name="annoline1"><value>Clinton</value></Data><Data name="annoline2"><value>Hill</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -73.96784306216374,40.69322942188155
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      <name>Sea Gate</name>
+      <ExtendedData>
+        <Data name="borough"><value>Brooklyn</value></Data><Data name="objectid"><value>86</value></Data><Data name="annoline3"><value></value></Data><Data name="annoangle"><value>0.0</value></Data><Data name="stacked"><value>2</value></Data><Data name="annoline1"><value>Sea</value></Data><Data name="annoline2"><value>Gate</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -74.00787311200247,40.576375378902284
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      <name>Downtown</name>
+      <ExtendedData>
+        <Data name="borough"><value>Brooklyn</value></Data><Data name="objectid"><value>87</value></Data><Data name="annoline3"><value></value></Data><Data name="annoangle"><value>0.0</value></Data><Data name="stacked"><value>2</value></Data><Data name="annoline1"><value>Down-</value></Data><Data name="annoline2"><value>town</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -73.98346337431106,40.69084402109806
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      <name>Boerum Hill</name>
+      <ExtendedData>
+        <Data name="borough"><value>Brooklyn</value></Data><Data name="objectid"><value>88</value></Data><Data name="annoline3"><value></value></Data><Data name="annoangle"><value>0.0</value></Data><Data name="stacked"><value>2</value></Data><Data name="annoline1"><value>Boerum</value></Data><Data name="annoline2"><value>Hill</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -73.98357724689187,40.687241380657376
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      <name>Prospect Lefferts Gardens</name>
+      <ExtendedData>
+        <Data name="borough"><value>Brooklyn</value></Data><Data name="objectid"><value>89</value></Data><Data name="annoline3"><value>Gardens</value></Data><Data name="annoangle"><value>0.0</value></Data><Data name="stacked"><value>3</value></Data><Data name="annoline1"><value>Prospect</value></Data><Data name="annoline2"><value>Lefferts</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -73.9548986707772,40.65842001746986
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      <name>Ocean Hill</name>
+      <ExtendedData>
+        <Data name="borough"><value>Brooklyn</value></Data><Data name="objectid"><value>90</value></Data><Data name="annoline3"><value></value></Data><Data name="annoangle"><value>0.0</value></Data><Data name="stacked"><value>2</value></Data><Data name="annoline1"><value>Ocean</value></Data><Data name="annoline2"><value>Hill</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -73.91306831787404,40.6784025547954
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      <name>City Line</name>
+      <ExtendedData>
+        <Data name="borough"><value>Brooklyn</value></Data><Data name="objectid"><value>91</value></Data><Data name="annoline3"><value></value></Data><Data name="annoangle"><value>0.0</value></Data><Data name="stacked"><value>2</value></Data><Data name="annoline1"><value>City</value></Data><Data name="annoline2"><value>Line</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -73.86797598081343,40.678569957274824
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      <name>Bergen Beach</name>
+      <ExtendedData>
+        <Data name="borough"><value>Brooklyn</value></Data><Data name="objectid"><value>92</value></Data><Data name="annoline3"><value></value></Data><Data name="annoangle"><value>0.0</value></Data><Data name="stacked"><value>2</value></Data><Data name="annoline1"><value>Bergen</value></Data><Data name="annoline2"><value>Beach</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -73.89855633630324,40.615149550453125
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      <name>Midwood</name>
+      <ExtendedData>
+        <Data name="borough"><value>Brooklyn</value></Data><Data name="objectid"><value>93</value></Data><Data name="annoline3"><value></value></Data><Data name="annoangle"><value>0.0</value></Data><Data name="stacked"><value>1</value></Data><Data name="annoline1"><value>Midwood</value></Data><Data name="annoline2"><value></value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -73.95759523489846,40.62559589869847
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      <name>Prospect Park South</name>
+      <ExtendedData>
+        <Data name="borough"><value>Brooklyn</value></Data><Data name="objectid"><value>94</value></Data><Data name="annoline3"><value></value></Data><Data name="annoangle"><value>0.0</value></Data><Data name="stacked"><value>2</value></Data><Data name="annoline1"><value>Prospect</value></Data><Data name="annoline2"><value>Park South</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -73.96261316716055,40.64700860318523
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      <name>Georgetown</name>
+      <ExtendedData>
+        <Data name="borough"><value>Brooklyn</value></Data><Data name="objectid"><value>95</value></Data><Data name="annoline3"><value></value></Data><Data name="annoangle"><value>0.0</value></Data><Data name="stacked"><value>1</value></Data><Data name="annoline1"><value>Georgetown</value></Data><Data name="annoline2"><value></value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -73.91607483951331,40.623845244784235
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      <name>Spring Creek</name>
+      <ExtendedData>
+        <Data name="borough"><value>Brooklyn</value></Data><Data name="objectid"><value>96</value></Data><Data name="annoline3"><value></value></Data><Data name="annoangle"><value>0.0</value></Data><Data name="stacked"><value>2</value></Data><Data name="annoline1"><value>Spring</value></Data><Data name="annoline2"><value>Creek</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -73.86998779106547,40.65713927658277
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      <name>East Williamsburg</name>
+      <ExtendedData>
+        <Data name="borough"><value>Brooklyn</value></Data><Data name="objectid"><value>97</value></Data><Data name="annoline3"><value></value></Data><Data name="annoangle"><value>0.0</value></Data><Data name="stacked"><value>2</value></Data><Data name="annoline1"><value>East</value></Data><Data name="annoline2"><value>Williamsburg</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -73.93885815269203,40.70849241041552
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      <name>North Side</name>
+      <ExtendedData>
+        <Data name="borough"><value>Brooklyn</value></Data><Data name="objectid"><value>98</value></Data><Data name="annoline3"><value></value></Data><Data name="annoangle"><value>0.0</value></Data><Data name="stacked"><value>1</value></Data><Data name="annoline1"><value>North Side</value></Data><Data name="annoline2"><value></value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -73.95880857587589,40.714822906532056
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      <name>South Side</name>
+      <ExtendedData>
+        <Data name="borough"><value>Brooklyn</value></Data><Data name="objectid"><value>99</value></Data><Data name="annoline3"><value></value></Data><Data name="annoangle"><value>0.0</value></Data><Data name="stacked"><value>1</value></Data><Data name="annoline1"><value>South Side</value></Data><Data name="annoline2"><value></value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -73.95800095153338,40.710861472650684
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      <name>Navy Yard</name>
+      <ExtendedData>
+        <Data name="borough"><value>Brooklyn</value></Data><Data name="objectid"><value>100</value></Data><Data name="annoline3"><value></value></Data><Data name="annoangle"><value>0.0</value></Data><Data name="stacked"><value>2</value></Data><Data name="annoline1"><value>Navy</value></Data><Data name="annoline2"><value>Yard</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -73.97164435527614,40.698790872180545
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      <name>Ocean Parkway</name>
+      <ExtendedData>
+        <Data name="borough"><value>Brooklyn</value></Data><Data name="objectid"><value>101</value></Data><Data name="annoline3"><value></value></Data><Data name="annoangle"><value>0.0</value></Data><Data name="stacked"><value>2</value></Data><Data name="annoline1"><value>Ocean</value></Data><Data name="annoline2"><value>Parkway</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -73.96836678035548,40.61305976667946
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      <name>Fort Hamilton</name>
+      <ExtendedData>
+        <Data name="borough"><value>Brooklyn</value></Data><Data name="objectid"><value>102</value></Data><Data name="annoline3"><value></value></Data><Data name="annoangle"><value>0.0</value></Data><Data name="stacked"><value>2</value></Data><Data name="annoline1"><value>Fort</value></Data><Data name="annoline2"><value>Hamilton</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -74.0319791453799,40.6147681269423
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      <name>Chinatown</name>
+      <ExtendedData>
+        <Data name="borough"><value>Manhattan</value></Data><Data name="objectid"><value>103</value></Data><Data name="annoline3"><value></value></Data><Data name="annoangle"><value>0.0</value></Data><Data name="stacked"><value>1</value></Data><Data name="annoline1"><value>Chinatown</value></Data><Data name="annoline2"><value></value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -73.99427936255985,40.715618422314364
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      <name>Washington Heights</name>
+      <ExtendedData>
+        <Data name="borough"><value>Manhattan</value></Data><Data name="objectid"><value>104</value></Data><Data name="annoline3"><value></value></Data><Data name="annoangle"><value>0.0</value></Data><Data name="stacked"><value>2</value></Data><Data name="annoline1"><value>Washington</value></Data><Data name="annoline2"><value>Heights</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -73.93690027985242,40.85190252555309
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      <name>Inwood</name>
+      <ExtendedData>
+        <Data name="borough"><value>Manhattan</value></Data><Data name="objectid"><value>105</value></Data><Data name="annoline3"><value></value></Data><Data name="annoangle"><value>0.0</value></Data><Data name="stacked"><value>1</value></Data><Data name="annoline1"><value>Inwood</value></Data><Data name="annoline2"><value></value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -73.92121042203905,40.86768396449919
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      <name>Hamilton Heights</name>
+      <ExtendedData>
+        <Data name="borough"><value>Manhattan</value></Data><Data name="objectid"><value>106</value></Data><Data name="annoline3"><value></value></Data><Data name="annoangle"><value>0.0</value></Data><Data name="stacked"><value>2</value></Data><Data name="annoline1"><value>Hamilton</value></Data><Data name="annoline2"><value>Heights</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -73.94968791883373,40.82360428481197
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      <name>Manhattanville</name>
+      <ExtendedData>
+        <Data name="borough"><value>Manhattan</value></Data><Data name="objectid"><value>107</value></Data><Data name="annoline3"><value></value></Data><Data name="annoangle"><value>0.0</value></Data><Data name="stacked"><value>2</value></Data><Data name="annoline1"><value>Manhattanville</value></Data><Data name="annoline2"><value></value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -73.95738539351888,40.81693442949784
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      <name>Central Harlem</name>
+      <ExtendedData>
+        <Data name="borough"><value>Manhattan</value></Data><Data name="objectid"><value>108</value></Data><Data name="annoline3"><value></value></Data><Data name="annoangle"><value>0.0</value></Data><Data name="stacked"><value>2</value></Data><Data name="annoline1"><value>Central</value></Data><Data name="annoline2"><value>Harlem</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -73.94321112603912,40.81597606742418
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      <name>East Harlem</name>
+      <ExtendedData>
+        <Data name="borough"><value>Manhattan</value></Data><Data name="objectid"><value>109</value></Data><Data name="annoline3"><value></value></Data><Data name="annoangle"><value>0.0</value></Data><Data name="stacked"><value>2</value></Data><Data name="annoline1"><value>East</value></Data><Data name="annoline2"><value>Harlem</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -73.94418223148531,40.79224946663037
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      <name>Upper East Side</name>
+      <ExtendedData>
+        <Data name="borough"><value>Manhattan</value></Data><Data name="objectid"><value>110</value></Data><Data name="annoline3"><value>Side</value></Data><Data name="annoangle"><value>0.0</value></Data><Data name="stacked"><value>3</value></Data><Data name="annoline1"><value>Upper</value></Data><Data name="annoline2"><value>East</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -73.96050763135007,40.77563857330185
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      <name>Yorkville</name>
+      <ExtendedData>
+        <Data name="borough"><value>Manhattan</value></Data><Data name="objectid"><value>111</value></Data><Data name="annoline3"><value></value></Data><Data name="annoangle"><value>0.0</value></Data><Data name="stacked"><value>2</value></Data><Data name="annoline1"><value>York-</value></Data><Data name="annoline2"><value>ville</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -73.94711784471833,40.77592984988492
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      <name>Lenox Hill</name>
+      <ExtendedData>
+        <Data name="borough"><value>Manhattan</value></Data><Data name="objectid"><value>112</value></Data><Data name="annoline3"><value></value></Data><Data name="annoangle"><value>0.0</value></Data><Data name="stacked"><value>2</value></Data><Data name="annoline1"><value>Lenox</value></Data><Data name="annoline2"><value>Hill</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -73.95885968813766,40.76811265828737
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      <name>Roosevelt Island</name>
+      <ExtendedData>
+        <Data name="borough"><value>Manhattan</value></Data><Data name="objectid"><value>113</value></Data><Data name="annoline3"><value></value></Data><Data name="annoangle"><value>56.0</value></Data><Data name="stacked"><value>1</value></Data><Data name="annoline1"><value>Roosevelt Island</value></Data><Data name="annoline2"><value></value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -73.9494705736962,40.762403730702246
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      <name>Upper West Side</name>
+      <ExtendedData>
+        <Data name="borough"><value>Manhattan</value></Data><Data name="objectid"><value>114</value></Data><Data name="annoline3"><value>Side</value></Data><Data name="annoangle"><value>0.0</value></Data><Data name="stacked"><value>3</value></Data><Data name="annoline1"><value>Upper</value></Data><Data name="annoline2"><value>West</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -73.9770592363061,40.7876579985349
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      <name>Lincoln Square</name>
+      <ExtendedData>
+        <Data name="borough"><value>Manhattan</value></Data><Data name="objectid"><value>115</value></Data><Data name="annoline3"><value></value></Data><Data name="annoangle"><value>0.0</value></Data><Data name="stacked"><value>2</value></Data><Data name="annoline1"><value>Lincoln</value></Data><Data name="annoline2"><value>Square</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -73.9853377700127,40.773528889421705
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      <name>Clinton</name>
+      <ExtendedData>
+        <Data name="borough"><value>Manhattan</value></Data><Data name="objectid"><value>116</value></Data><Data name="annoline3"><value></value></Data><Data name="annoangle"><value>0.0</value></Data><Data name="stacked"><value>1</value></Data><Data name="annoline1"><value>Clinton</value></Data><Data name="annoline2"><value></value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -73.99640768221386,40.758333686906404
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      <name>Midtown</name>
+      <ExtendedData>
+        <Data name="borough"><value>Manhattan</value></Data><Data name="objectid"><value>117</value></Data><Data name="annoline3"><value></value></Data><Data name="annoangle"><value>0.0</value></Data><Data name="stacked"><value>1</value></Data><Data name="annoline1"><value>Midtown</value></Data><Data name="annoline2"><value></value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -73.98166882730311,40.75469110270627
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      <name>Murray Hill</name>
+      <ExtendedData>
+        <Data name="borough"><value>Manhattan</value></Data><Data name="objectid"><value>118</value></Data><Data name="annoline3"><value></value></Data><Data name="annoangle"><value>0.0</value></Data><Data name="stacked"><value>2</value></Data><Data name="annoline1"><value>Murray</value></Data><Data name="annoline2"><value>Hill</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -73.97833207924134,40.74830307725222
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      <name>Chelsea</name>
+      <ExtendedData>
+        <Data name="borough"><value>Manhattan</value></Data><Data name="objectid"><value>119</value></Data><Data name="annoline3"><value></value></Data><Data name="annoangle"><value>0.0</value></Data><Data name="stacked"><value>1</value></Data><Data name="annoline1"><value>Chelsea</value></Data><Data name="annoline2"><value></value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -74.0031163347282,40.74403470674802
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      <name>Greenwich Village</name>
+      <ExtendedData>
+        <Data name="borough"><value>Manhattan</value></Data><Data name="objectid"><value>120</value></Data><Data name="annoline3"><value></value></Data><Data name="annoangle"><value>0.0</value></Data><Data name="stacked"><value>2</value></Data><Data name="annoline1"><value>Greenwich</value></Data><Data name="annoline2"><value>Village</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -73.99991402945909,40.72693288536132
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      <name>East Village</name>
+      <ExtendedData>
+        <Data name="borough"><value>Manhattan</value></Data><Data name="objectid"><value>121</value></Data><Data name="annoline3"><value></value></Data><Data name="annoangle"><value>0.0</value></Data><Data name="stacked"><value>2</value></Data><Data name="annoline1"><value>East</value></Data><Data name="annoline2"><value>Village</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -73.98222616506425,40.72784677727029
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      <name>Lower East Side</name>
+      <ExtendedData>
+        <Data name="borough"><value>Manhattan</value></Data><Data name="objectid"><value>122</value></Data><Data name="annoline3"><value>Side</value></Data><Data name="annoangle"><value>0.0</value></Data><Data name="stacked"><value>3</value></Data><Data name="annoline1"><value>Lower</value></Data><Data name="annoline2"><value>East</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -73.98089031999298,40.71780674892769
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      <name>Tribeca</name>
+      <ExtendedData>
+        <Data name="borough"><value>Manhattan</value></Data><Data name="objectid"><value>123</value></Data><Data name="annoline3"><value></value></Data><Data name="annoangle"><value>0.0</value></Data><Data name="stacked"><value>1</value></Data><Data name="annoline1"><value>Tribeca</value></Data><Data name="annoline2"><value></value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -74.01068328559094,40.72152196744325
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      <name>Little Italy</name>
+      <ExtendedData>
+        <Data name="borough"><value>Manhattan</value></Data><Data name="objectid"><value>124</value></Data><Data name="annoline3"><value></value></Data><Data name="annoangle"><value>0.0</value></Data><Data name="stacked"><value>2</value></Data><Data name="annoline1"><value>Little</value></Data><Data name="annoline2"><value>Italy</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -73.9973046720808,40.71932379395911
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      <name>Soho</name>
+      <ExtendedData>
+        <Data name="borough"><value>Manhattan</value></Data><Data name="objectid"><value>125</value></Data><Data name="annoline3"><value></value></Data><Data name="annoangle"><value>0.0</value></Data><Data name="stacked"><value>1</value></Data><Data name="annoline1"><value>Soho</value></Data><Data name="annoline2"><value></value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -74.00065666959766,40.72218384131798
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      <name>West Village</name>
+      <ExtendedData>
+        <Data name="borough"><value>Manhattan</value></Data><Data name="objectid"><value>126</value></Data><Data name="annoline3"><value></value></Data><Data name="annoangle"><value>0.0</value></Data><Data name="stacked"><value>2</value></Data><Data name="annoline1"><value>West</value></Data><Data name="annoline2"><value>Village</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -74.00617998126819,40.734433935724375
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      <name>Manhattan Valley</name>
+      <ExtendedData>
+        <Data name="borough"><value>Manhattan</value></Data><Data name="objectid"><value>127</value></Data><Data name="annoline3"><value></value></Data><Data name="annoangle"><value>0.0</value></Data><Data name="stacked"><value>2</value></Data><Data name="annoline1"><value>Manhattan</value></Data><Data name="annoline2"><value>Valley</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -73.96428617740662,40.7973070417029
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      <name>Morningside Heights</name>
+      <ExtendedData>
+        <Data name="borough"><value>Manhattan</value></Data><Data name="objectid"><value>128</value></Data><Data name="annoline3"><value></value></Data><Data name="annoangle"><value>0.0</value></Data><Data name="stacked"><value>2</value></Data><Data name="annoline1"><value>Morningside</value></Data><Data name="annoline2"><value>Heights</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -73.96389627905339,40.80799973816586
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      <name>Gramercy</name>
+      <ExtendedData>
+        <Data name="borough"><value>Manhattan</value></Data><Data name="objectid"><value>129</value></Data><Data name="annoline3"><value></value></Data><Data name="annoangle"><value>0.0</value></Data><Data name="stacked"><value>1</value></Data><Data name="annoline1"><value>Gramercy</value></Data><Data name="annoline2"><value></value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -73.98137594833548,40.737209832715045
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      <name>Battery Park City</name>
+      <ExtendedData>
+        <Data name="borough"><value>Manhattan</value></Data><Data name="objectid"><value>130</value></Data><Data name="annoline3"><value>City</value></Data><Data name="annoangle"><value>0.0</value></Data><Data name="stacked"><value>3</value></Data><Data name="annoline1"><value>Battery</value></Data><Data name="annoline2"><value>Park</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -74.01686930508625,40.71193198394569
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      <name>Financial District</name>
+      <ExtendedData>
+        <Data name="borough"><value>Manhattan</value></Data><Data name="objectid"><value>131</value></Data><Data name="annoline3"><value></value></Data><Data name="annoangle"><value>0.0</value></Data><Data name="stacked"><value>2</value></Data><Data name="annoline1"><value>Financial</value></Data><Data name="annoline2"><value>District</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -74.01066544521277,40.70710710727052
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      <name>Astoria</name>
+      <ExtendedData>
+        <Data name="borough"><value>Queens</value></Data><Data name="objectid"><value>132</value></Data><Data name="annoline3"><value></value></Data><Data name="annoangle"><value>0.0</value></Data><Data name="stacked"><value>1</value></Data><Data name="annoline1"><value>Astoria</value></Data><Data name="annoline2"><value></value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -73.91565374304241,40.768508593354966
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      <name>Woodside</name>
+      <ExtendedData>
+        <Data name="borough"><value>Queens</value></Data><Data name="objectid"><value>133</value></Data><Data name="annoline3"><value></value></Data><Data name="annoangle"><value>0.0</value></Data><Data name="stacked"><value>1</value></Data><Data name="annoline1"><value>Woodside</value></Data><Data name="annoline2"><value></value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -73.90184166838291,40.746349088602265
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      <name>Jackson Heights</name>
+      <ExtendedData>
+        <Data name="borough"><value>Queens</value></Data><Data name="objectid"><value>134</value></Data><Data name="annoline3"><value></value></Data><Data name="annoangle"><value>0.0</value></Data><Data name="stacked"><value>2</value></Data><Data name="annoline1"><value>Jackson</value></Data><Data name="annoline2"><value>Heights</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -73.88282109164372,40.751981380073715
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      <name>Elmhurst</name>
+      <ExtendedData>
+        <Data name="borough"><value>Queens</value></Data><Data name="objectid"><value>135</value></Data><Data name="annoline3"><value></value></Data><Data name="annoangle"><value>0.0</value></Data><Data name="stacked"><value>1</value></Data><Data name="annoline1"><value>Elmhurst</value></Data><Data name="annoline2"><value></value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -73.88165622288396,40.744048505122066
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      <name>Howard Beach</name>
+      <ExtendedData>
+        <Data name="borough"><value>Queens</value></Data><Data name="objectid"><value>136</value></Data><Data name="annoline3"><value></value></Data><Data name="annoangle"><value>0.0</value></Data><Data name="stacked"><value>2</value></Data><Data name="annoline1"><value>Howard</value></Data><Data name="annoline2"><value>Beach</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -73.83813764600289,40.6542252773849
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      <name>South Corona</name>
+      <ExtendedData>
+        <Data name="borough"><value>Queens</value></Data><Data name="objectid"><value>137</value></Data><Data name="annoline3"><value></value></Data><Data name="annoangle"><value>0.0</value></Data><Data name="stacked"><value>2</value></Data><Data name="annoline1"><value>South</value></Data><Data name="annoline2"><value>Corona</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -73.85682497345266,40.7423817501567
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      <name>Forest Hills</name>
+      <ExtendedData>
+        <Data name="borough"><value>Queens</value></Data><Data name="objectid"><value>138</value></Data><Data name="annoline3"><value></value></Data><Data name="annoangle"><value>0.0</value></Data><Data name="stacked"><value>2</value></Data><Data name="annoline1"><value>Forest</value></Data><Data name="annoline2"><value>Hills</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -73.8444750078899,40.725263782165065
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      <name>Kew Gardens</name>
+      <ExtendedData>
+        <Data name="borough"><value>Queens</value></Data><Data name="objectid"><value>139</value></Data><Data name="annoline3"><value></value></Data><Data name="annoangle"><value>0.0</value></Data><Data name="stacked"><value>2</value></Data><Data name="annoline1"><value>Kew</value></Data><Data name="annoline2"><value>Gardens</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -73.8298190582571,40.705179035414844
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      <name>Richmond Hill</name>
+      <ExtendedData>
+        <Data name="borough"><value>Queens</value></Data><Data name="objectid"><value>140</value></Data><Data name="annoline3"><value></value></Data><Data name="annoangle"><value>0.0</value></Data><Data name="stacked"><value>2</value></Data><Data name="annoline1"><value>Richmond</value></Data><Data name="annoline2"><value>Hill</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -73.83183321446894,40.69794731471767
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      <name>Downtown Flushing</name>
+      <ExtendedData>
+        <Data name="borough"><value>Queens</value></Data><Data name="objectid"><value>141</value></Data><Data name="annoline3"><value></value></Data><Data name="annoangle"><value>0.0</value></Data><Data name="stacked"><value>2</value></Data><Data name="annoline1"><value>Downtown</value></Data><Data name="annoline2"><value>Flushing</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -73.82936758711861,40.76116362081876
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      <name>Long Island City</name>
+      <ExtendedData>
+        <Data name="borough"><value>Queens</value></Data><Data name="objectid"><value>142</value></Data><Data name="annoline3"><value>City</value></Data><Data name="annoangle"><value>0.0</value></Data><Data name="stacked"><value>3</value></Data><Data name="annoline1"><value>Long</value></Data><Data name="annoline2"><value>Island</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -73.93920223915512,40.75021734610532
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      <name>Sunnyside</name>
+      <ExtendedData>
+        <Data name="borough"><value>Queens</value></Data><Data name="objectid"><value>143</value></Data><Data name="annoline3"><value></value></Data><Data name="annoangle"><value>0.0</value></Data><Data name="stacked"><value>1</value></Data><Data name="annoline1"><value>Sunnyside</value></Data><Data name="annoline2"><value></value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -73.92691617561584,40.74017628351928
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      <name>East Elmhurst</name>
+      <ExtendedData>
+        <Data name="borough"><value>Queens</value></Data><Data name="objectid"><value>144</value></Data><Data name="annoline3"><value></value></Data><Data name="annoangle"><value>0.0</value></Data><Data name="stacked"><value>2</value></Data><Data name="annoline1"><value>East</value></Data><Data name="annoline2"><value>Elmhurst</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -73.86704147658779,40.764073238830946
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      <name>Maspeth</name>
+      <ExtendedData>
+        <Data name="borough"><value>Queens</value></Data><Data name="objectid"><value>145</value></Data><Data name="annoline3"><value></value></Data><Data name="annoangle"><value>0.0</value></Data><Data name="stacked"><value>1</value></Data><Data name="annoline1"><value>Maspeth</value></Data><Data name="annoline2"><value></value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -73.89621713626867,40.72542737409365
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      <name>Ridgewood</name>
+      <ExtendedData>
+        <Data name="borough"><value>Queens</value></Data><Data name="objectid"><value>146</value></Data><Data name="annoline3"><value></value></Data><Data name="annoangle"><value>0.0</value></Data><Data name="stacked"><value>1</value></Data><Data name="annoline1"><value>Ridgewood</value></Data><Data name="annoline2"><value></value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -73.90143517559596,40.70832315613862
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      <name>Glendale</name>
+      <ExtendedData>
+        <Data name="borough"><value>Queens</value></Data><Data name="objectid"><value>147</value></Data><Data name="annoline3"><value></value></Data><Data name="annoangle"><value>0.0</value></Data><Data name="stacked"><value>1</value></Data><Data name="annoline1"><value>Glendale</value></Data><Data name="annoline2"><value></value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -73.87074167435614,40.702762429678415
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      <name>Rego Park</name>
+      <ExtendedData>
+        <Data name="borough"><value>Queens</value></Data><Data name="objectid"><value>148</value></Data><Data name="annoline3"><value></value></Data><Data name="annoangle"><value>0.0</value></Data><Data name="stacked"><value>1</value></Data><Data name="annoline1"><value>Rego Park</value></Data><Data name="annoline2"><value></value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -73.85782686905377,40.72897409480739
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      <name>Woodhaven</name>
+      <ExtendedData>
+        <Data name="borough"><value>Queens</value></Data><Data name="objectid"><value>149</value></Data><Data name="annoline3"><value></value></Data><Data name="annoangle"><value>0.0</value></Data><Data name="stacked"><value>1</value></Data><Data name="annoline1"><value>Woodhaven</value></Data><Data name="annoline2"><value></value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -73.85811046554328,40.689886879157925
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      <name>Ozone Park</name>
+      <ExtendedData>
+        <Data name="borough"><value>Queens</value></Data><Data name="objectid"><value>150</value></Data><Data name="annoline3"><value></value></Data><Data name="annoangle"><value>0.0</value></Data><Data name="stacked"><value>1</value></Data><Data name="annoline1"><value>Ozone Park</value></Data><Data name="annoline2"><value></value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -73.84320266173454,40.68070846826546
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      <name>South Ozone Park</name>
+      <ExtendedData>
+        <Data name="borough"><value>Queens</value></Data><Data name="objectid"><value>151</value></Data><Data name="annoline3"><value></value></Data><Data name="annoangle"><value>0.0</value></Data><Data name="stacked"><value>2</value></Data><Data name="annoline1"><value>South</value></Data><Data name="annoline2"><value>Ozone Park</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -73.80986478649048,40.66854957767199
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      <name>College Point</name>
+      <ExtendedData>
+        <Data name="borough"><value>Queens</value></Data><Data name="objectid"><value>152</value></Data><Data name="annoline3"><value></value></Data><Data name="annoangle"><value>0.0</value></Data><Data name="stacked"><value>2</value></Data><Data name="annoline1"><value>College</value></Data><Data name="annoline2"><value>Point</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -73.84304528896132,40.78490274926025
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      <name>Whitestone</name>
+      <ExtendedData>
+        <Data name="borough"><value>Queens</value></Data><Data name="objectid"><value>153</value></Data><Data name="annoline3"><value></value></Data><Data name="annoangle"><value>0.0</value></Data><Data name="stacked"><value>1</value></Data><Data name="annoline1"><value>Whitestone</value></Data><Data name="annoline2"><value></value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -73.8142021661087,40.781290766026984
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      <name>Bayside</name>
+      <ExtendedData>
+        <Data name="borough"><value>Queens</value></Data><Data name="objectid"><value>154</value></Data><Data name="annoline3"><value></value></Data><Data name="annoangle"><value>0.0</value></Data><Data name="stacked"><value>1</value></Data><Data name="annoline1"><value>Bayside</value></Data><Data name="annoline2"><value></value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -73.77427363068676,40.76604063281068
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      <name>Auburndale</name>
+      <ExtendedData>
+        <Data name="borough"><value>Queens</value></Data><Data name="objectid"><value>155</value></Data><Data name="annoline3"><value></value></Data><Data name="annoangle"><value>0.0</value></Data><Data name="stacked"><value>1</value></Data><Data name="annoline1"><value>Auburndale</value></Data><Data name="annoline2"><value></value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -73.79176243728068,40.761729549032665
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      <name>Little Neck</name>
+      <ExtendedData>
+        <Data name="borough"><value>Queens</value></Data><Data name="objectid"><value>156</value></Data><Data name="annoline3"><value></value></Data><Data name="annoangle"><value>0.0</value></Data><Data name="stacked"><value>2</value></Data><Data name="annoline1"><value>Little</value></Data><Data name="annoline2"><value>Neck</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -73.73889775580747,40.77082619282674
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      <name>Douglaston</name>
+      <ExtendedData>
+        <Data name="borough"><value>Queens</value></Data><Data name="objectid"><value>157</value></Data><Data name="annoline3"><value></value></Data><Data name="annoangle"><value>0.0</value></Data><Data name="stacked"><value>1</value></Data><Data name="annoline1"><value>Douglaston</value></Data><Data name="annoline2"><value></value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -73.74249820727337,40.766846097907674
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      <name>Glen Oaks</name>
+      <ExtendedData>
+        <Data name="borough"><value>Queens</value></Data><Data name="objectid"><value>158</value></Data><Data name="annoline3"><value></value></Data><Data name="annoangle"><value>0.0</value></Data><Data name="stacked"><value>2</value></Data><Data name="annoline1"><value>Glen</value></Data><Data name="annoline2"><value>Oaks</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -73.71548118999152,40.74944079974336
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      <name>Bellerose</name>
+      <ExtendedData>
+        <Data name="borough"><value>Queens</value></Data><Data name="objectid"><value>159</value></Data><Data name="annoline3"><value></value></Data><Data name="annoangle"><value>0.0</value></Data><Data name="stacked"><value>1</value></Data><Data name="annoline1"><value>Bellerose</value></Data><Data name="annoline2"><value></value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -73.7201281482691,40.72857318176679
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      <name>Kew Gardens Hills</name>
+      <ExtendedData>
+        <Data name="borough"><value>Queens</value></Data><Data name="objectid"><value>160</value></Data><Data name="annoline3"><value>Hills</value></Data><Data name="annoangle"><value>0.0</value></Data><Data name="stacked"><value>3</value></Data><Data name="annoline1"><value>Kew</value></Data><Data name="annoline2"><value>Gardens</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -73.82087764933573,40.72257824422808
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      <name>Fresh Meadows</name>
+      <ExtendedData>
+        <Data name="borough"><value>Queens</value></Data><Data name="objectid"><value>161</value></Data><Data name="annoline3"><value></value></Data><Data name="annoangle"><value>0.0</value></Data><Data name="stacked"><value>2</value></Data><Data name="annoline1"><value>Fresh</value></Data><Data name="annoline2"><value>Meadows</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -73.78271337003271,40.734394465331334
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      <name>Briarwood</name>
+      <ExtendedData>
+        <Data name="borough"><value>Queens</value></Data><Data name="objectid"><value>162</value></Data><Data name="annoline3"><value></value></Data><Data name="annoangle"><value>0.0</value></Data><Data name="stacked"><value>1</value></Data><Data name="annoline1"><value>Briarwood</value></Data><Data name="annoline2"><value></value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -73.81174822458641,40.710935472522756
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      <name>Jamaica Center</name>
+      <ExtendedData>
+        <Data name="borough"><value>Queens</value></Data><Data name="objectid"><value>163</value></Data><Data name="annoline3"><value></value></Data><Data name="annoangle"><value>0.0</value></Data><Data name="stacked"><value>2</value></Data><Data name="annoline1"><value>Jamaica</value></Data><Data name="annoline2"><value>Center</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -73.79690165888296,40.704657360687214
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      <name>Oakland Gardens</name>
+      <ExtendedData>
+        <Data name="borough"><value>Queens</value></Data><Data name="objectid"><value>164</value></Data><Data name="annoline3"><value></value></Data><Data name="annoangle"><value>0.0</value></Data><Data name="stacked"><value>2</value></Data><Data name="annoline1"><value>Oakland</value></Data><Data name="annoline2"><value>Gardens</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -73.75494976234339,40.74561857141858
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      <name>Queens Village</name>
+      <ExtendedData>
+        <Data name="borough"><value>Queens</value></Data><Data name="objectid"><value>165</value></Data><Data name="annoline3"><value></value></Data><Data name="annoangle"><value>0.0</value></Data><Data name="stacked"><value>2</value></Data><Data name="annoline1"><value>Queens</value></Data><Data name="annoline2"><value>Village</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -73.73871484578433,40.7188930921674
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      <name>Hollis</name>
+      <ExtendedData>
+        <Data name="borough"><value>Queens</value></Data><Data name="objectid"><value>166</value></Data><Data name="annoline3"><value></value></Data><Data name="annoangle"><value>0.0</value></Data><Data name="stacked"><value>1</value></Data><Data name="annoline1"><value>Hollis</value></Data><Data name="annoline2"><value></value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -73.75925009335602,40.71124344191908
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      <name>South Jamaica</name>
+      <ExtendedData>
+        <Data name="borough"><value>Queens</value></Data><Data name="objectid"><value>167</value></Data><Data name="annoline3"><value></value></Data><Data name="annoangle"><value>0.0</value></Data><Data name="stacked"><value>1</value></Data><Data name="annoline1"><value>South Jamaica</value></Data><Data name="annoline2"><value></value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -73.79042613135549,40.69691125378992
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      <name>St. Albans</name>
+      <ExtendedData>
+        <Data name="borough"><value>Queens</value></Data><Data name="objectid"><value>168</value></Data><Data name="annoline3"><value></value></Data><Data name="annoangle"><value>0.0</value></Data><Data name="stacked"><value>1</value></Data><Data name="annoline1"><value>St. Albans</value></Data><Data name="annoline2"><value></value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -73.75867603727725,40.69444538522363
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      <name>Rochdale</name>
+      <ExtendedData>
+        <Data name="borough"><value>Queens</value></Data><Data name="objectid"><value>169</value></Data><Data name="annoline3"><value></value></Data><Data name="annoangle"><value>0.0</value></Data><Data name="stacked"><value>1</value></Data><Data name="annoline1"><value>Rochdale</value></Data><Data name="annoline2"><value></value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -73.77258787620913,40.675211395917366
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      <name>Springfield Gardens</name>
+      <ExtendedData>
+        <Data name="borough"><value>Queens</value></Data><Data name="objectid"><value>170</value></Data><Data name="annoline3"><value></value></Data><Data name="annoangle"><value>0.0</value></Data><Data name="stacked"><value>2</value></Data><Data name="annoline1"><value>Springfield</value></Data><Data name="annoline2"><value>Gardens</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -73.76042092682295,40.666230490368626
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      <name>Cambria Heights</name>
+      <ExtendedData>
+        <Data name="borough"><value>Queens</value></Data><Data name="objectid"><value>171</value></Data><Data name="annoline3"><value></value></Data><Data name="annoangle"><value>0.0</value></Data><Data name="stacked"><value>2</value></Data><Data name="annoline1"><value>Cambria</value></Data><Data name="annoline2"><value>Heights</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -73.73526873708033,40.69277463916089
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      <name>Rosedale</name>
+      <ExtendedData>
+        <Data name="borough"><value>Queens</value></Data><Data name="objectid"><value>172</value></Data><Data name="annoline3"><value></value></Data><Data name="annoangle"><value>0.0</value></Data><Data name="stacked"><value>1</value></Data><Data name="annoline1"><value>Rosedale</value></Data><Data name="annoline2"><value></value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -73.73526079428285,40.65981643342812
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      <name>Far Rockaway</name>
+      <ExtendedData>
+        <Data name="borough"><value>Queens</value></Data><Data name="objectid"><value>173</value></Data><Data name="annoline3"><value></value></Data><Data name="annoangle"><value>0.0</value></Data><Data name="stacked"><value>2</value></Data><Data name="annoline1"><value>Far Rockaway</value></Data><Data name="annoline2"><value></value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -73.7549796804388,40.60313443250093
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      <name>Broad Channel</name>
+      <ExtendedData>
+        <Data name="borough"><value>Queens</value></Data><Data name="objectid"><value>174</value></Data><Data name="annoline3"><value></value></Data><Data name="annoangle"><value>0.0</value></Data><Data name="stacked"><value>2</value></Data><Data name="annoline1"><value>Broad</value></Data><Data name="annoline2"><value>Channel</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -73.82005489110327,40.603026583512424
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      <name>Breezy Point</name>
+      <ExtendedData>
+        <Data name="borough"><value>Queens</value></Data><Data name="objectid"><value>175</value></Data><Data name="annoline3"><value></value></Data><Data name="annoangle"><value>0.0</value></Data><Data name="stacked"><value>2</value></Data><Data name="annoline1"><value>Breezy</value></Data><Data name="annoline2"><value>Point</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -73.92551196994177,40.557401288454564
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      <name>Steinway</name>
+      <ExtendedData>
+        <Data name="borough"><value>Queens</value></Data><Data name="objectid"><value>176</value></Data><Data name="annoline3"><value></value></Data><Data name="annoangle"><value>0.0</value></Data><Data name="stacked"><value>1</value></Data><Data name="annoline1"><value>Steinway</value></Data><Data name="annoline2"><value></value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -73.90228960391681,40.77592301564293
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      <name>Beechhurst</name>
+      <ExtendedData>
+        <Data name="borough"><value>Queens</value></Data><Data name="objectid"><value>177</value></Data><Data name="annoline3"><value></value></Data><Data name="annoangle"><value>0.0</value></Data><Data name="stacked"><value>1</value></Data><Data name="annoline1"><value>Beechhurst</value></Data><Data name="annoline2"><value></value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -73.80436451720996,40.792781403600515
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      <name>Bay Terrace</name>
+      <ExtendedData>
+        <Data name="borough"><value>Queens</value></Data><Data name="objectid"><value>178</value></Data><Data name="annoline3"><value></value></Data><Data name="annoangle"><value>0.0</value></Data><Data name="stacked"><value>2</value></Data><Data name="annoline1"><value>Bay</value></Data><Data name="annoline2"><value>Terrace</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -73.77680222621588,40.7828428062456
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      <name>Edgemere</name>
+      <ExtendedData>
+        <Data name="borough"><value>Queens</value></Data><Data name="objectid"><value>179</value></Data><Data name="annoline3"><value></value></Data><Data name="annoangle"><value>0.0</value></Data><Data name="stacked"><value>1</value></Data><Data name="annoline1"><value>Edgemere</value></Data><Data name="annoline2"><value></value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -73.77613282391712,40.59564180736854
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      <name>Arverne</name>
+      <ExtendedData>
+        <Data name="borough"><value>Queens</value></Data><Data name="objectid"><value>180</value></Data><Data name="annoline3"><value></value></Data><Data name="annoangle"><value>0.0</value></Data><Data name="stacked"><value>1</value></Data><Data name="annoline1"><value>Arverne</value></Data><Data name="annoline2"><value></value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -73.7919923313695,40.58914394372975
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      <name>Seaside</name>
+      <ExtendedData>
+        <Data name="borough"><value>Queens</value></Data><Data name="objectid"><value>181</value></Data><Data name="annoline3"><value></value></Data><Data name="annoangle"><value>0.0</value></Data><Data name="stacked"><value>1</value></Data><Data name="annoline1"><value>Seaside</value></Data><Data name="annoline2"><value></value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -73.82236121088758,40.58280169684563
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      <name>Neponsit</name>
+      <ExtendedData>
+        <Data name="borough"><value>Queens</value></Data><Data name="objectid"><value>182</value></Data><Data name="annoline3"><value></value></Data><Data name="annoangle"><value>0.0</value></Data><Data name="stacked"><value>1</value></Data><Data name="annoline1"><value>Neponsit</value></Data><Data name="annoline2"><value></value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -73.85754672410836,40.57203673021705
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      <name>Murray Hill</name>
+      <ExtendedData>
+        <Data name="borough"><value>Queens</value></Data><Data name="objectid"><value>183</value></Data><Data name="annoline3"><value></value></Data><Data name="annoangle"><value>0.0</value></Data><Data name="stacked"><value>2</value></Data><Data name="annoline1"><value>Murray</value></Data><Data name="annoline2"><value>Hill</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -73.81276269135873,40.7641261226141
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      <name>Floral Park</name>
+      <ExtendedData>
+        <Data name="borough"><value>Queens</value></Data><Data name="objectid"><value>184</value></Data><Data name="annoline3"><value></value></Data><Data name="annoangle"><value>0.0</value></Data><Data name="stacked"><value>1</value></Data><Data name="annoline1"><value>Floral Park</value></Data><Data name="annoline2"><value></value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -73.70884705889253,40.74137842194548
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      <name>Holliswood</name>
+      <ExtendedData>
+        <Data name="borough"><value>Queens</value></Data><Data name="objectid"><value>185</value></Data><Data name="annoline3"><value></value></Data><Data name="annoangle"><value>0.0</value></Data><Data name="stacked"><value>1</value></Data><Data name="annoline1"><value>Holliswood</value></Data><Data name="annoline2"><value></value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -73.76714166714736,40.720957207644446
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      <name>Jamaica Estates</name>
+      <ExtendedData>
+        <Data name="borough"><value>Queens</value></Data><Data name="objectid"><value>186</value></Data><Data name="annoline3"><value></value></Data><Data name="annoangle"><value>0.0</value></Data><Data name="stacked"><value>2</value></Data><Data name="annoline1"><value>Jamaica</value></Data><Data name="annoline2"><value>Estates</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -73.78722696936667,40.716804830146174
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      <name>Queensboro Hill</name>
+      <ExtendedData>
+        <Data name="borough"><value>Queens</value></Data><Data name="objectid"><value>187</value></Data><Data name="annoline3"><value></value></Data><Data name="annoangle"><value>0.0</value></Data><Data name="stacked"><value>2</value></Data><Data name="annoline1"><value>Queensboro</value></Data><Data name="annoline2"><value>Hill</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -73.82580915110566,40.744572309286745
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      <name>Hillcrest</name>
+      <ExtendedData>
+        <Data name="borough"><value>Queens</value></Data><Data name="objectid"><value>188</value></Data><Data name="annoline3"><value></value></Data><Data name="annoangle"><value>0.0</value></Data><Data name="stacked"><value>1</value></Data><Data name="annoline1"><value>Hillcrest</value></Data><Data name="annoline2"><value></value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -73.79760300912679,40.72382490182924
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      <name>Ravenswood</name>
+      <ExtendedData>
+        <Data name="borough"><value>Queens</value></Data><Data name="objectid"><value>189</value></Data><Data name="annoline3"><value></value></Data><Data name="annoangle"><value>0.0</value></Data><Data name="stacked"><value>1</value></Data><Data name="annoline1"><value>Ravenswood</value></Data><Data name="annoline2"><value></value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -73.93157506072886,40.76170452605419
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      <name>Lindenwood</name>
+      <ExtendedData>
+        <Data name="borough"><value>Queens</value></Data><Data name="objectid"><value>190</value></Data><Data name="annoline3"><value></value></Data><Data name="annoangle"><value>0.0</value></Data><Data name="stacked"><value>1</value></Data><Data name="annoline1"><value>Lindenwood</value></Data><Data name="annoline2"><value></value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -73.84963782402448,40.66391841925143
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      <name>Laurelton</name>
+      <ExtendedData>
+        <Data name="borough"><value>Queens</value></Data><Data name="objectid"><value>191</value></Data><Data name="annoline3"><value></value></Data><Data name="annoangle"><value>0.0</value></Data><Data name="stacked"><value>1</value></Data><Data name="annoline1"><value>Laurelton</value></Data><Data name="annoline2"><value></value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -73.74025607989829,40.667883896602504
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      <name>Lefrak City</name>
+      <ExtendedData>
+        <Data name="borough"><value>Queens</value></Data><Data name="objectid"><value>192</value></Data><Data name="annoline3"><value></value></Data><Data name="annoangle"><value>0.0</value></Data><Data name="stacked"><value>2</value></Data><Data name="annoline1"><value>Lefrak</value></Data><Data name="annoline2"><value>City</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -73.86252471413746,40.73607457083084
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      <name>Belle Harbor</name>
+      <ExtendedData>
+        <Data name="borough"><value>Queens</value></Data><Data name="objectid"><value>193</value></Data><Data name="annoline3"><value></value></Data><Data name="annoangle"><value>0.0</value></Data><Data name="stacked"><value>1</value></Data><Data name="annoline1"><value>Belle Harbor</value></Data><Data name="annoline2"><value></value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -73.85401750392529,40.57615556543113
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      <name>Rockaway Park</name>
+      <ExtendedData>
+        <Data name="borough"><value>Queens</value></Data><Data name="objectid"><value>194</value></Data><Data name="annoline3"><value></value></Data><Data name="annoangle"><value>0.0</value></Data><Data name="stacked"><value>1</value></Data><Data name="annoline1"><value>Rockaway Park</value></Data><Data name="annoline2"><value></value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -73.84153370226193,40.58034295646135
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      <name>Somerville</name>
+      <ExtendedData>
+        <Data name="borough"><value>Queens</value></Data><Data name="objectid"><value>195</value></Data><Data name="annoline3"><value></value></Data><Data name="annoangle"><value>0.0</value></Data><Data name="stacked"><value>1</value></Data><Data name="annoline1"><value>Somerville</value></Data><Data name="annoline2"><value></value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -73.79664750844056,40.59771061565772
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      <name>Brookville</name>
+      <ExtendedData>
+        <Data name="borough"><value>Queens</value></Data><Data name="objectid"><value>196</value></Data><Data name="annoline3"><value></value></Data><Data name="annoangle"><value>0.0</value></Data><Data name="stacked"><value>1</value></Data><Data name="annoline1"><value>Brookville</value></Data><Data name="annoline2"><value></value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -73.7517531073116,40.66000322733616
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      <name>Bellaire</name>
+      <ExtendedData>
+        <Data name="borough"><value>Queens</value></Data><Data name="objectid"><value>197</value></Data><Data name="annoline3"><value></value></Data><Data name="annoangle"><value>0.0</value></Data><Data name="stacked"><value>1</value></Data><Data name="annoline1"><value>Bellaire</value></Data><Data name="annoline2"><value></value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -73.73889198912488,40.73301404027838
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      <name>North Corona</name>
+      <ExtendedData>
+        <Data name="borough"><value>Queens</value></Data><Data name="objectid"><value>198</value></Data><Data name="annoline3"><value></value></Data><Data name="annoangle"><value>0.0</value></Data><Data name="stacked"><value>2</value></Data><Data name="annoline1"><value>North</value></Data><Data name="annoline2"><value>Corona</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -73.85751790676454,40.75407099904894
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      <name>Forest Hills Gardens</name>
+      <ExtendedData>
+        <Data name="borough"><value>Queens</value></Data><Data name="objectid"><value>199</value></Data><Data name="annoline3"><value>Gardens</value></Data><Data name="annoangle"><value>0.0</value></Data><Data name="stacked"><value>3</value></Data><Data name="annoline1"><value>Forest</value></Data><Data name="annoline2"><value>Hills</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -73.84102211234017,40.71461108151174
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      <name>St. George</name>
+      <ExtendedData>
+        <Data name="borough"><value>Staten Island</value></Data><Data name="objectid"><value>200</value></Data><Data name="annoline3"><value></value></Data><Data name="annoangle"><value>0.0</value></Data><Data name="stacked"><value>2</value></Data><Data name="annoline1"><value>St.</value></Data><Data name="annoline2"><value>George</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -74.07935312512804,40.64498157100444
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      <name>New Brighton</name>
+      <ExtendedData>
+        <Data name="borough"><value>Staten Island</value></Data><Data name="objectid"><value>201</value></Data><Data name="annoline3"><value></value></Data><Data name="annoangle"><value>0.0</value></Data><Data name="stacked"><value>2</value></Data><Data name="annoline1"><value>New</value></Data><Data name="annoline2"><value>Brighton</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -74.08701650516633,40.64061455913515
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      <name>Stapleton</name>
+      <ExtendedData>
+        <Data name="borough"><value>Staten Island</value></Data><Data name="objectid"><value>202</value></Data><Data name="annoline3"><value></value></Data><Data name="annoangle"><value>0.0</value></Data><Data name="stacked"><value>1</value></Data><Data name="annoline1"><value>Stapleton</value></Data><Data name="annoline2"><value></value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -74.07790192660073,40.6269276253818
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      <name>Rosebank</name>
+      <ExtendedData>
+        <Data name="borough"><value>Staten Island</value></Data><Data name="objectid"><value>203</value></Data><Data name="annoline3"><value></value></Data><Data name="annoangle"><value>0.0</value></Data><Data name="stacked"><value>1</value></Data><Data name="annoline1"><value>Rosebank</value></Data><Data name="annoline2"><value></value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -74.06980526716148,40.61530494652765
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      <name>West Brighton</name>
+      <ExtendedData>
+        <Data name="borough"><value>Staten Island</value></Data><Data name="objectid"><value>204</value></Data><Data name="annoline3"><value></value></Data><Data name="annoangle"><value>0.0</value></Data><Data name="stacked"><value>2</value></Data><Data name="annoline1"><value>West</value></Data><Data name="annoline2"><value>Brighton</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -74.10718178265617,40.63187892654611
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      <name>Grymes Hill</name>
+      <ExtendedData>
+        <Data name="borough"><value>Staten Island</value></Data><Data name="objectid"><value>205</value></Data><Data name="annoline3"><value></value></Data><Data name="annoangle"><value>0.0</value></Data><Data name="stacked"><value>2</value></Data><Data name="annoline1"><value>Grymes</value></Data><Data name="annoline2"><value>Hill</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -74.08724819983736,40.62418479131304
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      <name>Todt Hill</name>
+      <ExtendedData>
+        <Data name="borough"><value>Staten Island</value></Data><Data name="objectid"><value>206</value></Data><Data name="annoline3"><value></value></Data><Data name="annoangle"><value>0.0</value></Data><Data name="stacked"><value>2</value></Data><Data name="annoline1"><value>Todt</value></Data><Data name="annoline2"><value>Hill</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -74.11132881800887,40.59706851814676
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      <name>South Beach</name>
+      <ExtendedData>
+        <Data name="borough"><value>Staten Island</value></Data><Data name="objectid"><value>207</value></Data><Data name="annoline3"><value></value></Data><Data name="annoangle"><value>0.0</value></Data><Data name="stacked"><value>2</value></Data><Data name="annoline1"><value>South</value></Data><Data name="annoline2"><value>Beach</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -74.07955292539827,40.5802474135096
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      <name>Port Richmond</name>
+      <ExtendedData>
+        <Data name="borough"><value>Staten Island</value></Data><Data name="objectid"><value>208</value></Data><Data name="annoline3"><value></value></Data><Data name="annoangle"><value>0.0</value></Data><Data name="stacked"><value>2</value></Data><Data name="annoline1"><value>Port</value></Data><Data name="annoline2"><value>Richmond</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -74.12943426797015,40.63366930554369
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      <name>Mariner's Harbor</name>
+      <ExtendedData>
+        <Data name="borough"><value>Staten Island</value></Data><Data name="objectid"><value>209</value></Data><Data name="annoline3"><value></value></Data><Data name="annoangle"><value>0.0</value></Data><Data name="stacked"><value>2</value></Data><Data name="annoline1"><value>Mariner's</value></Data><Data name="annoline2"><value>Harbor</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -74.15008537046988,40.63254639048117
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      <name>Port Ivory</name>
+      <ExtendedData>
+        <Data name="borough"><value>Staten Island</value></Data><Data name="objectid"><value>210</value></Data><Data name="annoline3"><value></value></Data><Data name="annoangle"><value>0.0</value></Data><Data name="stacked"><value>2</value></Data><Data name="annoline1"><value>Port</value></Data><Data name="annoline2"><value>Ivory</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -74.17464532993549,40.63968297845546
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      <name>Castleton Corners</name>
+      <ExtendedData>
+        <Data name="borough"><value>Staten Island</value></Data><Data name="objectid"><value>211</value></Data><Data name="annoline3"><value></value></Data><Data name="annoangle"><value>0.0</value></Data><Data name="stacked"><value>2</value></Data><Data name="annoline1"><value>Castleton</value></Data><Data name="annoline2"><value>Corners</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -74.1191805853485,40.613335937667465
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      <name>New Springville</name>
+      <ExtendedData>
+        <Data name="borough"><value>Staten Island</value></Data><Data name="objectid"><value>212</value></Data><Data name="annoline3"><value></value></Data><Data name="annoangle"><value>0.0</value></Data><Data name="stacked"><value>2</value></Data><Data name="annoline1"><value>New</value></Data><Data name="annoline2"><value>Springville</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -74.16496031329834,40.59425237916174
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      <name>Travis</name>
+      <ExtendedData>
+        <Data name="borough"><value>Staten Island</value></Data><Data name="objectid"><value>213</value></Data><Data name="annoline3"><value></value></Data><Data name="annoangle"><value>0.0</value></Data><Data name="stacked"><value>1</value></Data><Data name="annoline1"><value>Travis</value></Data><Data name="annoline2"><value></value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -74.19073717538123,40.58631375103285
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      <name>New Dorp</name>
+      <ExtendedData>
+        <Data name="borough"><value>Staten Island</value></Data><Data name="objectid"><value>214</value></Data><Data name="annoline3"><value></value></Data><Data name="annoangle"><value>0.0</value></Data><Data name="stacked"><value>2</value></Data><Data name="annoline1"><value>New</value></Data><Data name="annoline2"><value>Dorp</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -74.11647943606387,40.57257231820636
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      <name>Oakwood</name>
+      <ExtendedData>
+        <Data name="borough"><value>Staten Island</value></Data><Data name="objectid"><value>215</value></Data><Data name="annoline3"><value></value></Data><Data name="annoangle"><value>0.0</value></Data><Data name="stacked"><value>1</value></Data><Data name="annoline1"><value>Oakwood</value></Data><Data name="annoline2"><value></value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -74.12156593771904,40.558462243288844
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      <name>Great Kills</name>
+      <ExtendedData>
+        <Data name="borough"><value>Staten Island</value></Data><Data name="objectid"><value>216</value></Data><Data name="annoline3"><value></value></Data><Data name="annoangle"><value>0.0</value></Data><Data name="stacked"><value>2</value></Data><Data name="annoline1"><value>Great</value></Data><Data name="annoline2"><value>Kills</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -74.14932381490999,40.54948022871365
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      <name>Eltingville</name>
+      <ExtendedData>
+        <Data name="borough"><value>Staten Island</value></Data><Data name="objectid"><value>217</value></Data><Data name="annoline3"><value></value></Data><Data name="annoangle"><value>0.0</value></Data><Data name="stacked"><value>1</value></Data><Data name="annoline1"><value>Eltingville</value></Data><Data name="annoline2"><value></value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -74.16433080419367,40.54223074745079
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      <name>Annadale</name>
+      <ExtendedData>
+        <Data name="borough"><value>Staten Island</value></Data><Data name="objectid"><value>218</value></Data><Data name="annoline3"><value></value></Data><Data name="annoangle"><value>0.0</value></Data><Data name="stacked"><value>1</value></Data><Data name="annoline1"><value>Annadale</value></Data><Data name="annoline2"><value></value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -74.17854866165885,40.538114174745104
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      <name>Woodrow</name>
+      <ExtendedData>
+        <Data name="borough"><value>Staten Island</value></Data><Data name="objectid"><value>219</value></Data><Data name="annoline3"><value></value></Data><Data name="annoangle"><value>0.0</value></Data><Data name="stacked"><value>1</value></Data><Data name="annoline1"><value>Woodrow</value></Data><Data name="annoline2"><value></value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -74.22135055371616,40.53745265012707
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      <name>Tottenville</name>
+      <ExtendedData>
+        <Data name="borough"><value>Staten Island</value></Data><Data name="objectid"><value>220</value></Data><Data name="annoline3"><value></value></Data><Data name="annoangle"><value>0.0</value></Data><Data name="stacked"><value>1</value></Data><Data name="annoline1"><value>Tottenville</value></Data><Data name="annoline2"><value></value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -74.24656934235291,40.505333761156464
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      <name>Tompkinsville</name>
+      <ExtendedData>
+        <Data name="borough"><value>Staten Island</value></Data><Data name="objectid"><value>221</value></Data><Data name="annoline3"><value></value></Data><Data name="annoangle"><value>0.0</value></Data><Data name="stacked"><value>1</value></Data><Data name="annoline1"><value>Tompkinsville</value></Data><Data name="annoline2"><value></value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -74.08055351790122,40.63731606711036
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      <name>Silver Lake</name>
+      <ExtendedData>
+        <Data name="borough"><value>Staten Island</value></Data><Data name="objectid"><value>222</value></Data><Data name="annoline3"><value></value></Data><Data name="annoangle"><value>0.0</value></Data><Data name="stacked"><value>2</value></Data><Data name="annoline1"><value>Silver</value></Data><Data name="annoline2"><value>Lake</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -74.09629029235465,40.619193107926804
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      <name>Sunnyside</name>
+      <ExtendedData>
+        <Data name="borough"><value>Staten Island</value></Data><Data name="objectid"><value>223</value></Data><Data name="annoline3"><value></value></Data><Data name="annoangle"><value>0.0</value></Data><Data name="stacked"><value>1</value></Data><Data name="annoline1"><value>Sunnyside</value></Data><Data name="annoline2"><value></value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -74.09712552178537,40.612760157564935
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      <name>Ditmas Park</name>
+      <ExtendedData>
+        <Data name="borough"><value>Brooklyn</value></Data><Data name="objectid"><value>224</value></Data><Data name="annoline3"><value></value></Data><Data name="annoangle"><value>0.0</value></Data><Data name="stacked"><value>2</value></Data><Data name="annoline1"><value>Ditmas</value></Data><Data name="annoline2"><value>Park</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -73.96101312466787,40.64367518334101
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      <name>Wingate</name>
+      <ExtendedData>
+        <Data name="borough"><value>Brooklyn</value></Data><Data name="objectid"><value>225</value></Data><Data name="annoline3"><value></value></Data><Data name="annoangle"><value>0.0</value></Data><Data name="stacked"><value>1</value></Data><Data name="annoline1"><value>Wingate</value></Data><Data name="annoline2"><value></value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -73.93718680559321,40.660946561881154
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      <name>Rugby</name>
+      <ExtendedData>
+        <Data name="borough"><value>Brooklyn</value></Data><Data name="objectid"><value>226</value></Data><Data name="annoline3"><value></value></Data><Data name="annoangle"><value>0.0</value></Data><Data name="stacked"><value>1</value></Data><Data name="annoline1"><value>Rugby</value></Data><Data name="annoline2"><value></value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -73.92688212616963,40.65557231328081
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      <name>Park Hill</name>
+      <ExtendedData>
+        <Data name="borough"><value>Staten Island</value></Data><Data name="objectid"><value>227</value></Data><Data name="annoline3"><value></value></Data><Data name="annoangle"><value>0.0</value></Data><Data name="stacked"><value>2</value></Data><Data name="annoline1"><value>Park</value></Data><Data name="annoline2"><value>Hill</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -74.08015734936303,40.60919044434562
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      <name>Westerleigh</name>
+      <ExtendedData>
+        <Data name="borough"><value>Staten Island</value></Data><Data name="objectid"><value>228</value></Data><Data name="annoline3"><value></value></Data><Data name="annoangle"><value>0.0</value></Data><Data name="stacked"><value>1</value></Data><Data name="annoline1"><value>Westerleigh</value></Data><Data name="annoline2"><value></value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -74.13304143951713,40.62109047275413
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      <name>Graniteville</name>
+      <ExtendedData>
+        <Data name="borough"><value>Staten Island</value></Data><Data name="objectid"><value>229</value></Data><Data name="annoline3"><value></value></Data><Data name="annoangle"><value>0.0</value></Data><Data name="stacked"><value>1</value></Data><Data name="annoline1"><value>Graniteville</value></Data><Data name="annoline2"><value></value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -74.1531524638777,40.62017151223193
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      <name>Arlington</name>
+      <ExtendedData>
+        <Data name="borough"><value>Staten Island</value></Data><Data name="objectid"><value>230</value></Data><Data name="annoline3"><value></value></Data><Data name="annoangle"><value>0.0</value></Data><Data name="stacked"><value>1</value></Data><Data name="annoline1"><value>Arlington</value></Data><Data name="annoline2"><value></value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -74.16510420241131,40.63532509911496
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      <name>Arrochar</name>
+      <ExtendedData>
+        <Data name="borough"><value>Staten Island</value></Data><Data name="objectid"><value>231</value></Data><Data name="annoline3"><value></value></Data><Data name="annoangle"><value>0.0</value></Data><Data name="stacked"><value>1</value></Data><Data name="annoline1"><value>Arrochar</value></Data><Data name="annoline2"><value></value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -74.06712363225581,40.596312571276776
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      <name>Grasmere</name>
+      <ExtendedData>
+        <Data name="borough"><value>Staten Island</value></Data><Data name="objectid"><value>232</value></Data><Data name="annoline3"><value></value></Data><Data name="annoangle"><value>0.0</value></Data><Data name="stacked"><value>1</value></Data><Data name="annoline1"><value>Grasmere</value></Data><Data name="annoline2"><value></value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -74.07667436279057,40.59826835959995
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      <name>Old Town</name>
+      <ExtendedData>
+        <Data name="borough"><value>Staten Island</value></Data><Data name="objectid"><value>233</value></Data><Data name="annoline3"><value></value></Data><Data name="annoangle"><value>0.0</value></Data><Data name="stacked"><value>2</value></Data><Data name="annoline1"><value>Old</value></Data><Data name="annoline2"><value>Town</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -74.08751118005587,40.596328913795176
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      <name>Dongan Hills</name>
+      <ExtendedData>
+        <Data name="borough"><value>Staten Island</value></Data><Data name="objectid"><value>234</value></Data><Data name="annoline3"><value></value></Data><Data name="annoangle"><value>0.0</value></Data><Data name="stacked"><value>2</value></Data><Data name="annoline1"><value>Dongan</value></Data><Data name="annoline2"><value>Hills</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -74.09639905312528,40.58867294819932
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      <name>Midland Beach</name>
+      <ExtendedData>
+        <Data name="borough"><value>Staten Island</value></Data><Data name="objectid"><value>235</value></Data><Data name="annoline3"><value></value></Data><Data name="annoangle"><value>0.0</value></Data><Data name="stacked"><value>2</value></Data><Data name="annoline1"><value>Midland</value></Data><Data name="annoline2"><value>Beach</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -74.09348266303599,40.573526905742874
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      <name>Grant City</name>
+      <ExtendedData>
+        <Data name="borough"><value>Staten Island</value></Data><Data name="objectid"><value>236</value></Data><Data name="annoline3"><value></value></Data><Data name="annoangle"><value>0.0</value></Data><Data name="stacked"><value>2</value></Data><Data name="annoline1"><value>Grant</value></Data><Data name="annoline2"><value>City</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -74.10585598545441,40.57621558711792
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      <name>New Dorp Beach</name>
+      <ExtendedData>
+        <Data name="borough"><value>Staten Island</value></Data><Data name="objectid"><value>237</value></Data><Data name="annoline3"><value>Beach</value></Data><Data name="annoangle"><value>0.0</value></Data><Data name="stacked"><value>3</value></Data><Data name="annoline1"><value>New</value></Data><Data name="annoline2"><value>Dorp</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -74.10432707469131,40.56425549307338
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      <name>Bay Terrace</name>
+      <ExtendedData>
+        <Data name="borough"><value>Staten Island</value></Data><Data name="objectid"><value>238</value></Data><Data name="annoline3"><value></value></Data><Data name="annoangle"><value>0.0</value></Data><Data name="stacked"><value>2</value></Data><Data name="annoline1"><value>Bay</value></Data><Data name="annoline2"><value>Terrace</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -74.13916622175775,40.55398800858466
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      <name>Huguenot</name>
+      <ExtendedData>
+        <Data name="borough"><value>Staten Island</value></Data><Data name="objectid"><value>239</value></Data><Data name="annoline3"><value></value></Data><Data name="annoangle"><value>0.0</value></Data><Data name="stacked"><value>1</value></Data><Data name="annoline1"><value>Huguenot</value></Data><Data name="annoline2"><value></value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -74.19174105747821,40.53191192048964
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      <name>Pleasant Plains</name>
+      <ExtendedData>
+        <Data name="borough"><value>Staten Island</value></Data><Data name="objectid"><value>240</value></Data><Data name="annoline3"><value></value></Data><Data name="annoangle"><value>0.0</value></Data><Data name="stacked"><value>2</value></Data><Data name="annoline1"><value>Pleasant</value></Data><Data name="annoline2"><value>Plains</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -74.21983106616784,40.52469937611818
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      <name>Butler Manor</name>
+      <ExtendedData>
+        <Data name="borough"><value>Staten Island</value></Data><Data name="objectid"><value>241</value></Data><Data name="annoline3"><value></value></Data><Data name="annoangle"><value>0.0</value></Data><Data name="stacked"><value>2</value></Data><Data name="annoline1"><value>Butler</value></Data><Data name="annoline2"><value>Manor</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -74.22950350260034,40.506081653463085
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      <name>Charleston</name>
+      <ExtendedData>
+        <Data name="borough"><value>Staten Island</value></Data><Data name="objectid"><value>242</value></Data><Data name="annoline3"><value></value></Data><Data name="annoangle"><value>0.0</value></Data><Data name="stacked"><value>1</value></Data><Data name="annoline1"><value>Charleston</value></Data><Data name="annoline2"><value></value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -74.23215775896533,40.530531482833176
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      <name>Rossville</name>
+      <ExtendedData>
+        <Data name="borough"><value>Staten Island</value></Data><Data name="objectid"><value>243</value></Data><Data name="annoline3"><value></value></Data><Data name="annoangle"><value>0.0</value></Data><Data name="stacked"><value>1</value></Data><Data name="annoline1"><value>Rossville</value></Data><Data name="annoline2"><value></value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -74.21572851113959,40.549404006500765
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      <name>Arden Heights</name>
+      <ExtendedData>
+        <Data name="borough"><value>Staten Island</value></Data><Data name="objectid"><value>244</value></Data><Data name="annoline3"><value></value></Data><Data name="annoangle"><value>0.0</value></Data><Data name="stacked"><value>2</value></Data><Data name="annoline1"><value>Arden</value></Data><Data name="annoline2"><value>Heights</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -74.185886745839,40.549285822783254
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      <name>Greenridge</name>
+      <ExtendedData>
+        <Data name="borough"><value>Staten Island</value></Data><Data name="objectid"><value>245</value></Data><Data name="annoline3"><value></value></Data><Data name="annoangle"><value>0.0</value></Data><Data name="stacked"><value>1</value></Data><Data name="annoline1"><value>Greenridge</value></Data><Data name="annoline2"><value></value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -74.19150620964295,40.559712496342954
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      <name>Heartland Village</name>
+      <ExtendedData>
+        <Data name="borough"><value>Staten Island</value></Data><Data name="objectid"><value>246</value></Data><Data name="annoline3"><value></value></Data><Data name="annoangle"><value>0.0</value></Data><Data name="stacked"><value>2</value></Data><Data name="annoline1"><value>Heartland</value></Data><Data name="annoline2"><value>Village</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -74.15902208156608,40.589138948752854
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      <name>Chelsea</name>
+      <ExtendedData>
+        <Data name="borough"><value>Staten Island</value></Data><Data name="objectid"><value>247</value></Data><Data name="annoline3"><value></value></Data><Data name="annoangle"><value>0.0</value></Data><Data name="stacked"><value>1</value></Data><Data name="annoline1"><value>Chelsea</value></Data><Data name="annoline2"><value></value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -74.18956045519697,40.59472602746298
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      <name>Bloomfield</name>
+      <ExtendedData>
+        <Data name="borough"><value>Staten Island</value></Data><Data name="objectid"><value>248</value></Data><Data name="annoline3"><value></value></Data><Data name="annoangle"><value>0.0</value></Data><Data name="stacked"><value>1</value></Data><Data name="annoline1"><value>Bloomfield</value></Data><Data name="annoline2"><value></value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -74.18725638381574,40.60577868452362
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      <name>Bulls Head</name>
+      <ExtendedData>
+        <Data name="borough"><value>Staten Island</value></Data><Data name="objectid"><value>249</value></Data><Data name="annoline3"><value></value></Data><Data name="annoangle"><value>0.0</value></Data><Data name="stacked"><value>2</value></Data><Data name="annoline1"><value>Bulls</value></Data><Data name="annoline2"><value>Head</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -74.15940948657129,40.60959180042034
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      <name>Carnegie Hill</name>
+      <ExtendedData>
+        <Data name="borough"><value>Manhattan</value></Data><Data name="objectid"><value>250</value></Data><Data name="annoline3"><value></value></Data><Data name="annoangle"><value>0.0</value></Data><Data name="stacked"><value>2</value></Data><Data name="annoline1"><value>Carnegie</value></Data><Data name="annoline2"><value>Hill</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -73.95325646837121,40.78268256712574
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      <name>Noho</name>
+      <ExtendedData>
+        <Data name="borough"><value>Manhattan</value></Data><Data name="objectid"><value>251</value></Data><Data name="annoline3"><value></value></Data><Data name="annoangle"><value>0.0</value></Data><Data name="stacked"><value>1</value></Data><Data name="annoline1"><value>Noho</value></Data><Data name="annoline2"><value></value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -73.98843368023604,40.72325901885772
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      <name>Civic Center</name>
+      <ExtendedData>
+        <Data name="borough"><value>Manhattan</value></Data><Data name="objectid"><value>252</value></Data><Data name="annoline3"><value></value></Data><Data name="annoangle"><value>0.0</value></Data><Data name="stacked"><value>2</value></Data><Data name="annoline1"><value>Civic</value></Data><Data name="annoline2"><value>Center</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -74.00541529873362,40.715228920462856
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      <name>Midtown South</name>
+      <ExtendedData>
+        <Data name="borough"><value>Manhattan</value></Data><Data name="objectid"><value>253</value></Data><Data name="annoline3"><value></value></Data><Data name="annoangle"><value>0.0</value></Data><Data name="stacked"><value>2</value></Data><Data name="annoline1"><value>Midtown</value></Data><Data name="annoline2"><value>South</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -73.98871313285254,40.748509664312245
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      <name>Richmond Town</name>
+      <ExtendedData>
+        <Data name="borough"><value>Staten Island</value></Data><Data name="objectid"><value>254</value></Data><Data name="annoline3"><value></value></Data><Data name="annoangle"><value>0.0</value></Data><Data name="stacked"><value>2</value></Data><Data name="annoline1"><value>Richmond</value></Data><Data name="annoline2"><value>Town</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -74.13405729862578,40.56960594275509
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      <name>Shore Acres</name>
+      <ExtendedData>
+        <Data name="borough"><value>Staten Island</value></Data><Data name="objectid"><value>255</value></Data><Data name="annoline3"><value></value></Data><Data name="annoangle"><value>0.0</value></Data><Data name="stacked"><value>2</value></Data><Data name="annoline1"><value>Shore</value></Data><Data name="annoline2"><value>Acres</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -74.06667766061778,40.609719340792886
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      <name>Clifton</name>
+      <ExtendedData>
+        <Data name="borough"><value>Staten Island</value></Data><Data name="objectid"><value>256</value></Data><Data name="annoline3"><value></value></Data><Data name="annoangle"><value>0.0</value></Data><Data name="stacked"><value>1</value></Data><Data name="annoline1"><value>Clifton</value></Data><Data name="annoline2"><value></value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -74.07264244548406,40.61917845202847
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      <name>Concord</name>
+      <ExtendedData>
+        <Data name="borough"><value>Staten Island</value></Data><Data name="objectid"><value>257</value></Data><Data name="annoline3"><value></value></Data><Data name="annoangle"><value>0.0</value></Data><Data name="stacked"><value>1</value></Data><Data name="annoline1"><value>Concord</value></Data><Data name="annoline2"><value></value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -74.08402364740365,40.604473189687944
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      <name>Emerson Hill</name>
+      <ExtendedData>
+        <Data name="borough"><value>Staten Island</value></Data><Data name="objectid"><value>258</value></Data><Data name="annoline3"><value></value></Data><Data name="annoangle"><value>0.0</value></Data><Data name="stacked"><value>2</value></Data><Data name="annoline1"><value>Emerson</value></Data><Data name="annoline2"><value>Hill</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -74.09776206972529,40.606794394801035
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      <name>Randall Manor</name>
+      <ExtendedData>
+        <Data name="borough"><value>Staten Island</value></Data><Data name="objectid"><value>259</value></Data><Data name="annoline3"><value></value></Data><Data name="annoangle"><value>0.0</value></Data><Data name="stacked"><value>2</value></Data><Data name="annoline1"><value>Randall</value></Data><Data name="annoline2"><value>Manor</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -74.09805062373894,40.63563000681155
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      <name>Howland Hook</name>
+      <ExtendedData>
+        <Data name="borough"><value>Staten Island</value></Data><Data name="objectid"><value>260</value></Data><Data name="annoline3"><value></value></Data><Data name="annoangle"><value>0.0</value></Data><Data name="stacked"><value>2</value></Data><Data name="annoline1"><value>Howland</value></Data><Data name="annoline2"><value>Hook</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -74.1862233174983,40.638432837947995
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      <name>Elm Park</name>
+      <ExtendedData>
+        <Data name="borough"><value>Staten Island</value></Data><Data name="objectid"><value>261</value></Data><Data name="annoline3"><value></value></Data><Data name="annoangle"><value>0.0</value></Data><Data name="stacked"><value>2</value></Data><Data name="annoline1"><value>Elm</value></Data><Data name="annoline2"><value>Park</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -74.14181678968897,40.63014674119387
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      <name>Remsen Village</name>
+      <ExtendedData>
+        <Data name="borough"><value>Brooklyn</value></Data><Data name="objectid"><value>262</value></Data><Data name="annoline3"><value></value></Data><Data name="annoangle"><value>0.0</value></Data><Data name="stacked"><value>2</value></Data><Data name="annoline1"><value>Remsen</value></Data><Data name="annoline2"><value>Village</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -73.91665331978055,40.65211745179353
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      <name>New Lots</name>
+      <ExtendedData>
+        <Data name="borough"><value>Brooklyn</value></Data><Data name="objectid"><value>263</value></Data><Data name="annoline3"><value></value></Data><Data name="annoangle"><value>0.0</value></Data><Data name="stacked"><value>2</value></Data><Data name="annoline1"><value>New</value></Data><Data name="annoline2"><value>Lots</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -73.885117763793,40.66274427969663
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      <name>Paerdegat Basin</name>
+      <ExtendedData>
+        <Data name="borough"><value>Brooklyn</value></Data><Data name="objectid"><value>264</value></Data><Data name="annoline3"><value></value></Data><Data name="annoangle"><value>0.0</value></Data><Data name="stacked"><value>2</value></Data><Data name="annoline1"><value>Paerdegat</value></Data><Data name="annoline2"><value>Basin</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -73.90233474295843,40.63131755039671
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      <name>Mill Basin</name>
+      <ExtendedData>
+        <Data name="borough"><value>Brooklyn</value></Data><Data name="objectid"><value>265</value></Data><Data name="annoline3"><value></value></Data><Data name="annoangle"><value>0.0</value></Data><Data name="stacked"><value>2</value></Data><Data name="annoline1"><value>Mill</value></Data><Data name="annoline2"><value>Basin</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -73.9151539155041,40.615974239623405
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      <name>Jamaica Hills</name>
+      <ExtendedData>
+        <Data name="borough"><value>Queens</value></Data><Data name="objectid"><value>266</value></Data><Data name="annoline3"><value></value></Data><Data name="annoangle"><value>0.0</value></Data><Data name="stacked"><value>2</value></Data><Data name="annoline1"><value>Jamaica</value></Data><Data name="annoline2"><value>Hills</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -73.796464620816,40.71145964370486
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      <name>Utopia</name>
+      <ExtendedData>
+        <Data name="borough"><value>Queens</value></Data><Data name="objectid"><value>267</value></Data><Data name="annoline3"><value></value></Data><Data name="annoangle"><value>0.0</value></Data><Data name="stacked"><value>1</value></Data><Data name="annoline1"><value>Utopia</value></Data><Data name="annoline2"><value></value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -73.79671678028357,40.7335002542976
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      <name>Pomonok</name>
+      <ExtendedData>
+        <Data name="borough"><value>Queens</value></Data><Data name="objectid"><value>268</value></Data><Data name="annoline3"><value></value></Data><Data name="annoangle"><value>0.0</value></Data><Data name="stacked"><value>1</value></Data><Data name="annoline1"><value>Pomonok</value></Data><Data name="annoline2"><value></value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -73.80486120040544,40.73493618075482
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      <name>Astoria Heights</name>
+      <ExtendedData>
+        <Data name="borough"><value>Queens</value></Data><Data name="objectid"><value>269</value></Data><Data name="annoline3"><value></value></Data><Data name="annoangle"><value>0.0</value></Data><Data name="stacked"><value>2</value></Data><Data name="annoline1"><value>Astoria</value></Data><Data name="annoline2"><value>Heights</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -73.89467996270581,40.770317392998244
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      <name>Claremont Village</name>
+      <ExtendedData>
+        <Data name="borough"><value>Bronx</value></Data><Data name="objectid"><value>270</value></Data><Data name="annoline3"><value></value></Data><Data name="annoangle"><value>0.0</value></Data><Data name="stacked"><value>2</value></Data><Data name="annoline1"><value>Claremont</value></Data><Data name="annoline2"><value>Village</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -73.90119903387674,40.83142834161551
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      <name>Concourse Village</name>
+      <ExtendedData>
+        <Data name="borough"><value>Bronx</value></Data><Data name="objectid"><value>271</value></Data><Data name="annoline3"><value></value></Data><Data name="annoangle"><value>0.0</value></Data><Data name="stacked"><value>2</value></Data><Data name="annoline1"><value>Concourse</value></Data><Data name="annoline2"><value>Village</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -73.91584652759016,40.82478049084294
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      <name>Mount Eden</name>
+      <ExtendedData>
+        <Data name="borough"><value>Bronx</value></Data><Data name="objectid"><value>272</value></Data><Data name="annoline3"><value></value></Data><Data name="annoangle"><value>0.0</value></Data><Data name="stacked"><value>2</value></Data><Data name="annoline1"><value>Mount</value></Data><Data name="annoline2"><value>Eden</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -73.91655551964426,40.843826176716576
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      <name>Mount Hope</name>
+      <ExtendedData>
+        <Data name="borough"><value>Bronx</value></Data><Data name="objectid"><value>273</value></Data><Data name="annoline3"><value></value></Data><Data name="annoangle"><value>0.0</value></Data><Data name="stacked"><value>2</value></Data><Data name="annoline1"><value>Mount</value></Data><Data name="annoline2"><value>Hope</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -73.90829930881995,40.84884160724669
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      <name>Sutton Place</name>
+      <ExtendedData>
+        <Data name="borough"><value>Manhattan</value></Data><Data name="objectid"><value>274</value></Data><Data name="annoline3"><value></value></Data><Data name="annoangle"><value>0.0</value></Data><Data name="stacked"><value>2</value></Data><Data name="annoline1"><value>Sutton</value></Data><Data name="annoline2"><value>Place</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -73.9635561409431,40.76028033131378
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      <name>Hunters Point</name>
+      <ExtendedData>
+        <Data name="borough"><value>Queens</value></Data><Data name="objectid"><value>275</value></Data><Data name="annoline3"><value></value></Data><Data name="annoangle"><value>0.0</value></Data><Data name="stacked"><value>2</value></Data><Data name="annoline1"><value>Hunters</value></Data><Data name="annoline2"><value>Point</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -73.95386782130753,40.74341409007358
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      <name>Turtle Bay</name>
+      <ExtendedData>
+        <Data name="borough"><value>Manhattan</value></Data><Data name="objectid"><value>276</value></Data><Data name="annoline3"><value></value></Data><Data name="annoangle"><value>0.0</value></Data><Data name="stacked"><value>2</value></Data><Data name="annoline1"><value>Turtle</value></Data><Data name="annoline2"><value>Bay</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -73.96770824581843,40.75204236950726
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      <name>Tudor City</name>
+      <ExtendedData>
+        <Data name="borough"><value>Manhattan</value></Data><Data name="objectid"><value>277</value></Data><Data name="annoline3"><value></value></Data><Data name="annoangle"><value>0.0</value></Data><Data name="stacked"><value>2</value></Data><Data name="annoline1"><value>Tudor</value></Data><Data name="annoline2"><value>City</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -73.97121928722272,40.74691741074023
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      <name>Stuyvesant Town</name>
+      <ExtendedData>
+        <Data name="borough"><value>Manhattan</value></Data><Data name="objectid"><value>278</value></Data><Data name="annoline3"><value></value></Data><Data name="annoangle"><value>0.0</value></Data><Data name="stacked"><value>2</value></Data><Data name="annoline1"><value>Stuyvesant</value></Data><Data name="annoline2"><value>Town</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -73.9740517046921,40.73099955477065
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      <name>Flatiron</name>
+      <ExtendedData>
+        <Data name="borough"><value>Manhattan</value></Data><Data name="objectid"><value>279</value></Data><Data name="annoline3"><value></value></Data><Data name="annoangle"><value>0.0</value></Data><Data name="stacked"><value>1</value></Data><Data name="annoline1"><value>Flatiron</value></Data><Data name="annoline2"><value></value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -73.99094710528267,40.73967304763847
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      <name>Sunnyside Gardens</name>
+      <ExtendedData>
+        <Data name="borough"><value>Queens</value></Data><Data name="objectid"><value>280</value></Data><Data name="annoline3"><value></value></Data><Data name="annoangle"><value>0.0</value></Data><Data name="stacked"><value>2</value></Data><Data name="annoline1"><value>Sunnyside</value></Data><Data name="annoline2"><value>Gardens</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -73.9181928643169,40.745651806080794
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      <name>Blissville</name>
+      <ExtendedData>
+        <Data name="borough"><value>Queens</value></Data><Data name="objectid"><value>281</value></Data><Data name="annoline3"><value></value></Data><Data name="annoangle"><value>0.0</value></Data><Data name="stacked"><value>1</value></Data><Data name="annoline1"><value>Blissville</value></Data><Data name="annoline2"><value></value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -73.93244235260185,40.73725071694501
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      <name>Fulton Ferry</name>
+      <ExtendedData>
+        <Data name="borough"><value>Brooklyn</value></Data><Data name="objectid"><value>282</value></Data><Data name="annoline3"><value></value></Data><Data name="annoangle"><value>0.0</value></Data><Data name="stacked"><value>2</value></Data><Data name="annoline1"><value>Fulton</value></Data><Data name="annoline2"><value>Ferry</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -73.99550751888422,40.70328109093018
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      <name>Vinegar Hill</name>
+      <ExtendedData>
+        <Data name="borough"><value>Brooklyn</value></Data><Data name="objectid"><value>283</value></Data><Data name="annoline3"><value></value></Data><Data name="annoangle"><value>0.0</value></Data><Data name="stacked"><value>2</value></Data><Data name="annoline1"><value>Vinegar</value></Data><Data name="annoline2"><value>Hill</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -73.981116035924,40.703321498828785
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      <name>Weeksville</name>
+      <ExtendedData>
+        <Data name="borough"><value>Brooklyn</value></Data><Data name="objectid"><value>284</value></Data><Data name="annoline3"><value></value></Data><Data name="annoangle"><value>0.0</value></Data><Data name="stacked"><value>1</value></Data><Data name="annoline1"><value>Weeksville</value></Data><Data name="annoline2"><value></value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -73.93053108817347,40.67503986503241
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      <name>Broadway Junction</name>
+      <ExtendedData>
+        <Data name="borough"><value>Brooklyn</value></Data><Data name="objectid"><value>285</value></Data><Data name="annoline3"><value></value></Data><Data name="annoangle"><value>0.0</value></Data><Data name="stacked"><value>2</value></Data><Data name="annoline1"><value>Broadway</value></Data><Data name="annoline2"><value>Junction</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -73.90331684852606,40.67786104769535
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      <name>Dumbo</name>
+      <ExtendedData>
+        <Data name="borough"><value>Brooklyn</value></Data><Data name="objectid"><value>286</value></Data><Data name="annoline3"><value></value></Data><Data name="annoangle"><value>0.0</value></Data><Data name="stacked"><value>1</value></Data><Data name="annoline1"><value>Dumbo</value></Data><Data name="annoline2"><value></value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -73.98875280745047,40.70317632822696
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      <name>Manor Heights</name>
+      <ExtendedData>
+        <Data name="borough"><value>Staten Island</value></Data><Data name="objectid"><value>287</value></Data><Data name="annoline3"><value></value></Data><Data name="annoangle"><value>0.0</value></Data><Data name="stacked"><value>2</value></Data><Data name="annoline1"><value>Manor</value></Data><Data name="annoline2"><value>Heights</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -74.12059399718008,40.60180957631448
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      <name>Willowbrook</name>
+      <ExtendedData>
+        <Data name="borough"><value>Staten Island</value></Data><Data name="objectid"><value>288</value></Data><Data name="annoline3"><value></value></Data><Data name="annoangle"><value>0.0</value></Data><Data name="stacked"><value>1</value></Data><Data name="annoline1"><value>Willowbrook</value></Data><Data name="annoline2"><value></value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -74.13208447484305,40.60370692627375
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      <name>Sandy Ground</name>
+      <ExtendedData>
+        <Data name="borough"><value>Staten Island</value></Data><Data name="objectid"><value>289</value></Data><Data name="annoline3"><value></value></Data><Data name="annoangle"><value>0.0</value></Data><Data name="stacked"><value>2</value></Data><Data name="annoline1"><value>Sandy</value></Data><Data name="annoline2"><value>Ground</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -74.21776636068574,40.5411399220918
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      <name>Egbertville</name>
+      <ExtendedData>
+        <Data name="borough"><value>Staten Island</value></Data><Data name="objectid"><value>290</value></Data><Data name="annoline3"><value></value></Data><Data name="annoangle"><value>0.0</value></Data><Data name="stacked"><value>1</value></Data><Data name="annoline1"><value>Egbertville</value></Data><Data name="annoline2"><value></value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -74.12727240604953,40.579118742961256
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      <name>Roxbury</name>
+      <ExtendedData>
+        <Data name="borough"><value>Queens</value></Data><Data name="objectid"><value>291</value></Data><Data name="annoline3"><value></value></Data><Data name="annoangle"><value>0.0</value></Data><Data name="stacked"><value>1</value></Data><Data name="annoline1"><value>Roxbury</value></Data><Data name="annoline2"><value></value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -73.89213760232829,40.567375889570364
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      <name>Homecrest</name>
+      <ExtendedData>
+        <Data name="borough"><value>Brooklyn</value></Data><Data name="objectid"><value>292</value></Data><Data name="annoline3"><value></value></Data><Data name="annoangle"><value>0.0</value></Data><Data name="stacked"><value>1</value></Data><Data name="annoline1"><value>Homecrest</value></Data><Data name="annoline2"><value></value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -73.9591845942871,40.59852509513729
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      <name>Middle Village</name>
+      <ExtendedData>
+        <Data name="borough"><value>Queens</value></Data><Data name="objectid"><value>293</value></Data><Data name="annoline3"><value></value></Data><Data name="annoangle"><value>0.0</value></Data><Data name="stacked"><value>2</value></Data><Data name="annoline1"><value>Middle</value></Data><Data name="annoline2"><value>Village</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -73.8811431920061,40.71641451115823
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      <name>Prince's Bay</name>
+      <ExtendedData>
+        <Data name="borough"><value>Staten Island</value></Data><Data name="objectid"><value>294</value></Data><Data name="annoline3"><value></value></Data><Data name="annoangle"><value>0.0</value></Data><Data name="stacked"><value>2</value></Data><Data name="annoline1"><value>Prince's</value></Data><Data name="annoline2"><value>Bay</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -74.20152556457666,40.526264067348166
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      <name>Lighthouse Hill</name>
+      <ExtendedData>
+        <Data name="borough"><value>Staten Island</value></Data><Data name="objectid"><value>295</value></Data><Data name="annoline3"><value></value></Data><Data name="annoangle"><value>0.0</value></Data><Data name="stacked"><value>2</value></Data><Data name="annoline1"><value>Lighthouse</value></Data><Data name="annoline2"><value>Hill</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -74.13792663771576,40.576506293794935
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      <name>Richmond Valley</name>
+      <ExtendedData>
+        <Data name="borough"><value>Staten Island</value></Data><Data name="objectid"><value>296</value></Data><Data name="annoline3"><value></value></Data><Data name="annoangle"><value>0.0</value></Data><Data name="stacked"><value>2</value></Data><Data name="annoline1"><value>Richmond</value></Data><Data name="annoline2"><value>Valley</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -74.22957080626948,40.519541457489126
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      <name>Malba</name>
+      <ExtendedData>
+        <Data name="borough"><value>Queens</value></Data><Data name="objectid"><value>297</value></Data><Data name="annoline3"><value></value></Data><Data name="annoangle"><value>0.0</value></Data><Data name="stacked"><value>1</value></Data><Data name="annoline1"><value>Malba</value></Data><Data name="annoline2"><value></value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -73.8266775713865,40.790601556701525
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      <name>Highland Park</name>
+      <ExtendedData>
+        <Data name="borough"><value>Brooklyn</value></Data><Data name="objectid"><value>298</value></Data><Data name="annoline3"><value></value></Data><Data name="annoangle"><value>0.0</value></Data><Data name="stacked"><value>2</value></Data><Data name="annoline1"><value>Highland</value></Data><Data name="annoline2"><value>Park</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -73.8902809854761,40.68248551101694
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      <name>Madison</name>
+      <ExtendedData>
+        <Data name="borough"><value>Brooklyn</value></Data><Data name="objectid"><value>299</value></Data><Data name="annoline3"><value></value></Data><Data name="annoangle"><value>0.0</value></Data><Data name="stacked"><value>1</value></Data><Data name="annoline1"><value>Madison</value></Data><Data name="annoline2"><value></value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -73.948415153289,40.609377701137696
+    </coordinates></Point>
+    </Placemark></Folder>  </Document>
+  </kml>
