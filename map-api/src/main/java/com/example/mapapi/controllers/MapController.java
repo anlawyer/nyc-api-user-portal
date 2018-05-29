@@ -17,7 +17,7 @@ public class MapController {
     }
 
     @PostMapping("/")
-    public Map createNewUser(@RequestBody Map newZip) {
+    public Map createNewZip(@RequestBody Map newZip) {
       return mapRepository.save(newZip);
     }
 }

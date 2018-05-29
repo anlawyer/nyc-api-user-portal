@@ -22,6 +22,7 @@ export class UserEditComponent implements OnInit {
 
   constructor(
     private UserService: UserService,
+    private MapService: MapService,
     private route: ActivatedRoute,
     private router: Router
   ) { }
@@ -46,9 +47,10 @@ export class UserEditComponent implements OnInit {
   }
 
   addZip() {
-    this.MapService.addCurrentZipCode(this.user.zip)
+    console.log({zip: this.user.zip})
+    this.MapService.addCurrentZipCode({zip: this.user.zip})
     .subscribe(res => console.log(res.json())
-    // this.router.navigate(['map']);
+    this.router.navigate(['map']);
   }
 
 }
