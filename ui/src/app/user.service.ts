@@ -1,6 +1,7 @@
 import { Injectable } from '@angular/core';
 import { Http } from '@angular/http';
 import { environment } from './../environments/environment';
+import {Subject} from 'rxjs';
 
 @Injectable({
   providedIn: 'root'
@@ -8,12 +9,21 @@ import { environment } from './../environments/environment';
 
 export class UserService {
 
+  usersList: Array<any>;
+  usersChange: Subject<Array<any>> = new Subject<Array<any>>();
+
   constructor(
     private http: Http
-  ) { }
+  ) {
+    this.usersChange.subscribe((newUsersList) => {
+      this.usersList = newUsersList;
+    });
+  }
 
   getAllUsers() {
-    return this.http.get(`${environment.apiHost}/api/user`);
+    this.http.get(`${environment.apiHost}/api/user`)
+    .subscribe(res => this.usersList = res.json())
+    this.usersChange.next(this.usersList);
   }
 
   getOneUser(userID) {

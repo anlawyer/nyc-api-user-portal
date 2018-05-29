@@ -47,8 +47,8 @@ export class UserEditComponent implements OnInit {
 
   addZip() {
     this.MapService.addCurrentZipCode({zip: this.user.zip})
-    .subscribe(res => console.log(res.json())
-    this.router.navigate(['map']);
+    .subscribe(res => console.log(res.json()))
+    // this.router.navigate(['map']);
   }
 
 }

@@ -8,15 +8,18 @@ import { UserService } from '../user.service';
 })
 export class UserListComponent implements OnInit {
 
-  users: any;
+  users: Array<any>;
 
   constructor(
-    private UserService: UserService
-  ) { }
+    private userService: UserService
+  ) {
+    this.users = userService.usersList;
+    userService.usersChange.subscribe((newUsersList) => {
+      this.users = newUsersList;
+    });
+  }
 
   ngOnInit() {
-    this.UserService.getAllUsers()
-    .subscribe(res => this.users = res.json());
   }
 
 }
