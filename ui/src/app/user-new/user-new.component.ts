@@ -27,7 +27,7 @@ export class UserNewComponent implements OnInit {
 
   onSubmit() {
     this.userService.addNewUser(this.user)
-     this.router.navigate(['user/list']);
+    this.router.navigate(['user/list']);
   }
 
 }
