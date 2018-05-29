@@ -13,7 +13,7 @@
         <div class="card-body">
           <h5 class="card-title">{{user.name}}</h5>
           <h6 class="card-subtitle mb-2 text-muted">{{user.email}}</h6>
-          <a routerLink="/user/edit/{{user.id}}" class="btn btn-dark btn-lg">Edit Account</a>
+          <a routerLink="/user/edit/{{user.id}}" class="btn btn-dark btn-lg" (click)="setUserId(user.id)">Edit Account</a>
         </div>
       </div>
     </div>

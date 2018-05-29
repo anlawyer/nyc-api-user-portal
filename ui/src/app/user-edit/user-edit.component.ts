@@ -11,7 +11,6 @@ import { Router } from '@angular/router';
 })
 export class UserEditComponent implements OnInit {
 
-  currID: number;
   user = {
     name: '',
     email: '',
@@ -25,24 +24,29 @@ export class UserEditComponent implements OnInit {
     private mapService: MapService,
     private route: ActivatedRoute,
     private router: Router
-  ) { }
+  ) {
+    this.user = userService.currentUser;
+    userService.userUpdate.subscribe((differentUser) => {
+      this.user = differentUser;
+    });
+  }
 
   ngOnInit() {
-    this.route.params.forEach( param => this.currID = param.id )
-    this.userService.getOneUser(this.currID)
-    .subscribe(res => this.user = res.json())
+    // this.route.params.forEach( param => this.currID = param.id )
+    // this.userService.getOneUser(this.currID)
+    // .subscribe(res => this.user = res.json())
   }
 
   onSubmit() {
-    this.userService.updateUser(this.currID, this.user)
-    .subscribe(res => console.log(res.json()))
-     this.router.navigate(['user/list']);
+    // this.userService.updateUser(this.currID, this.user)
+    // .subscribe(res => console.log(res.json()))
+    //  this.router.navigate(['user/list']);
   }
 
   deleteUser() {
-    this.userService.deleteUser(this.currID)
-    .subscribe(res => console.log(res.json()))
-    this.router.navigate(['user/list']);
+    // this.userService.deleteUser(this.currID)
+    // .subscribe(res => console.log(res.json()))
+    // this.router.navigate(['user/list']);
   }
 
   addZip() {

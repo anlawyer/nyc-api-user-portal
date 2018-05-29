@@ -19,6 +19,10 @@ export class UserListComponent implements OnInit {
     });
   }
 
+  setUserId(id) {
+    this.userService.getOneUser(id);
+  }
+
   ngOnInit() {
   }
 

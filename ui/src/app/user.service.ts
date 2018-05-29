@@ -10,6 +10,8 @@ import {Subject} from 'rxjs';
 export class UserService {
 
   usersList: Array<any>;
+  currentUser: any;
+  userUpdate: Subject<any> = new Subject<any>();
   usersChange: Subject<Array<any>> = new Subject<Array<any>>();
 
   constructor(
@@ -17,6 +19,9 @@ export class UserService {
   ) {
     this.usersChange.subscribe((newUsersList) => {
       this.usersList = newUsersList;
+    });
+    this.userUpdate.subscribe((differentUser) => {
+      this.currentUser = differentUser;
     });
   }
 
@@ -27,7 +32,8 @@ export class UserService {
   }
 
   getOneUser(userID) {
-    return this.http.get(`${environment.apiHost}/api/user/` + userID);
+    const thisUser = this.usersList.find(user => user.id === userID);
+    this.userUpdate.next(thisUser);
   }
 
   addNewUser(user) {
