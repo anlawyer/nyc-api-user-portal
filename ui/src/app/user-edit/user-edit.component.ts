@@ -16,7 +16,8 @@ export class UserEditComponent implements OnInit {
     email: '',
     zip: '',
     agerange: '',
-    industry: ''
+    industry: '',
+    id: ''
   }
 
   constructor(
@@ -32,13 +33,11 @@ export class UserEditComponent implements OnInit {
   }
 
   ngOnInit() {
-    // this.route.params.forEach( param => this.currID = param.id )
-    // this.userService.getOneUser(this.currID)
-    // .subscribe(res => this.user = res.json())
   }
 
   onSubmit() {
-    // this.userService.updateUser(this.currID, this.user)
+    // console.log(this.user.id)
+    this.userService.updateUser(this.user.id, this.user)
     // .subscribe(res => console.log(res.json()))
     //  this.router.navigate(['user/list']);
   }

@@ -43,7 +43,7 @@ export class UserService {
   }
 
   updateUser(userID, user) {
-    return this.http.put(`${environment.apiHost}/api/user/` + userID, user);
+    this.http.put(`${environment.apiHost}/api/user/` + userID, user)
   }
 
   deleteUser(userID) {
