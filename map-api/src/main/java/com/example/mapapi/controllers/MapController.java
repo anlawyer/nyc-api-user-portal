@@ -15,4 +15,9 @@ public class MapController {
     public String send() {
         return "MAPS";
     }
+
+    @PostMapping("/")
+    public Map createNewUser(@RequestBody Map newZip) {
+      return mapRepository.save(newZip);
+    }
 }

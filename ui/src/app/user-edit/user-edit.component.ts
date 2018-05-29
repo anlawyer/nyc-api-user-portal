@@ -1,5 +1,6 @@
 import { Component, OnInit } from '@angular/core';
 import { UserService } from '../user.service';
+import { MapService } from '../map.service';
 import { ActivatedRoute } from '@angular/router';
 import { Router } from '@angular/router';
 
@@ -42,6 +43,12 @@ export class UserEditComponent implements OnInit {
     this.UserService.deleteUser(this.currID)
     .subscribe(res => console.log(res.json()))
     this.router.navigate(['user/list']);
+  }
+
+  addZip() {
+    this.MapService.addCurrentZipCode(this.user.zip)
+    .subscribe(res => console.log(res.json())
+    // this.router.navigate(['map']);
   }
 
 }
