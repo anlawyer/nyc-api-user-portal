@@ -44,6 +44,7 @@ export class UserService {
 
   updateUser(userID, user) {
     this.http.put(`${environment.apiHost}/api/user/` + userID, user)
+    .subscribe(res => console.log(res));
   }
 
   deleteUser(userID) {

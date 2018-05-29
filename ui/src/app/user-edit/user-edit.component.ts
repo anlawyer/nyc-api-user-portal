@@ -37,7 +37,7 @@ export class UserEditComponent implements OnInit {
 
   onSubmit() {
     this.userService.updateUser(this.user.id, this.user)
-     this.router.navigate(['user/list']);
+    this.router.navigate(['user/list']);
   }
 
   deleteUser() {
