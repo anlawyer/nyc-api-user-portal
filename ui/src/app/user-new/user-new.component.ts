@@ -13,7 +13,7 @@ export class UserNewComponent implements OnInit {
     name: '',
     email: '',
     zip: '',
-    ageRange: '',
+    agerange: '',
     industry: ''
   }
 
@@ -26,6 +26,7 @@ export class UserNewComponent implements OnInit {
   }
 
   onSubmit() {
+    console.log(this.user)
     this.UserService.addNewUser(this.user)
     .subscribe(res => console.log(res.json()))
      this.router.navigate(['user/list']);
