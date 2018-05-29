@@ -36,10 +36,8 @@ export class UserEditComponent implements OnInit {
   }
 
   onSubmit() {
-    // console.log(this.user.id)
     this.userService.updateUser(this.user.id, this.user)
-    // .subscribe(res => console.log(res.json()))
-    //  this.router.navigate(['user/list']);
+     this.router.navigate(['user/list']);
   }
 
   deleteUser() {
