@@ -31,7 +31,9 @@ export class UserService {
   }
 
   addNewUser(user) {
-    return this.http.post(`${environment.apiHost}/api/user`, user);
+    this.http.post(`${environment.apiHost}/api/user`, user)
+    .subscribe(res => this.usersList.push(res.json()));
+    this.usersChange.next(this.usersList)
   }
 
   updateUser(userID, user) {

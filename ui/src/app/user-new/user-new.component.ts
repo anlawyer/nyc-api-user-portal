@@ -19,15 +19,14 @@ export class UserNewComponent implements OnInit {
 
   constructor(
     private router: Router,
-    private UserService: UserService
+    private userService: UserService
   ) { }
 
   ngOnInit() {
   }
 
   onSubmit() {
-    this.UserService.addNewUser(this.user)
-    .subscribe(res => console.log(res.json()))
+    this.userService.addNewUser(this.user)
      this.router.navigate(['user/list']);
   }
 
