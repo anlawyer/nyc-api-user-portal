@@ -42,14 +42,13 @@ export class UserEditComponent implements OnInit {
 
   deleteUser() {
     this.userService.deleteUser(this.user.id)
-    // .subscribe(res => console.log(res.json()))
     this.router.navigate(['user/list']);
   }
 
   addZip() {
     this.mapService.addCurrentZipCode({zip: this.user.zip})
     .subscribe(res => console.log(res.json()))
-    // this.router.navigate(['map']);
+    this.router.navigate(['map']);
   }
 
 }
