@@ -41,9 +41,9 @@ export class UserEditComponent implements OnInit {
   }
 
   deleteUser() {
-    // this.userService.deleteUser(this.currID)
+    this.userService.deleteUser(this.user.id)
     // .subscribe(res => console.log(res.json()))
-    // this.router.navigate(['user/list']);
+    this.router.navigate(['user/list']);
   }
 
   addZip() {

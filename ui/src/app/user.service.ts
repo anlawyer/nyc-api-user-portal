@@ -48,6 +48,10 @@ export class UserService {
   }
 
   deleteUser(userID) {
-    return this.http.delete(`${environment.apiHost}/api/user/` + userID);
+    this.http.delete(`${environment.apiHost}/api/user/` + userID)
+    .subscribe(res => console.log(res));
+    const indexToRemove = this.usersList.map(user => user.id).indexOf(userID);
+    const removedUser = this.usersList.splice(indexToRemove, 1);
+    this.usersChange.next(this.usersList);
   }
 }
