@@ -1,4 +1,5 @@
 import { Component, OnInit } from '@angular/core';
+import { UserService } from '../user.service';
 
 @Component({
   selector: 'app-map-page',
@@ -8,8 +9,16 @@ import { Component, OnInit } from '@angular/core';
 export class MapPageComponent implements OnInit {
 
   map: any;
+  user: any;
 
-  constructor() { }
+  constructor(
+    private userService: UserService,
+  ) {
+    this.user = userService.currentUser;
+    userService.userUpdate.subscribe((differentUser) => {
+      this.user = differentUser;
+    });
+  }
 
   ngOnInit() {
     mapboxgl.accessToken = 'pk.eyJ1IjoiYW5sYXd5ZXIiLCJhIjoiY2pnOXU5dHFpMWhwcjJxcWxseG91NDl5ZSJ9.lyKwIU3Uu_XrqQLcw-hE1g';

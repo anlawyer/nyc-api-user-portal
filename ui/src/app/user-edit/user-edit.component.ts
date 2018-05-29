@@ -1,7 +1,6 @@
 import { Component, OnInit } from '@angular/core';
 import { UserService } from '../user.service';
 import { MapService } from '../map.service';
-import { ActivatedRoute } from '@angular/router';
 import { Router } from '@angular/router';
 
 @Component({
@@ -23,7 +22,6 @@ export class UserEditComponent implements OnInit {
   constructor(
     private userService: UserService,
     private mapService: MapService,
-    private route: ActivatedRoute,
     private router: Router
   ) {
     this.user = userService.currentUser;
