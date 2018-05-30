@@ -35,14 +35,29 @@ export class MapPageComponent implements OnInit {
     });
 
     this.map.on('load', (event) => {
-       /// register source
-       // this.map.addSource('names', {
-       //    type: 'geojson',
-       //    data: '../../../../assets/Neighborhood_Names_GIS.geojson'
-       // });
-       // this.source = this.map.getSource('names')
-       // console.log(this.map)
-       // console.log(this.source)
+      this.showPopup(event);
      });
+  }
+
+  showPopup(e) {
+    // this.map.on('click', function(e) {
+      var features = this.map.queryRenderedFeatures(e.point, {
+        layers: ['neighborhood names'] // replace this with the name of the layer
+      });
+
+      if (!features.length) {
+        return;
+      }
+
+      var feature = features[0];
+      // console.log(features)
+      // console.log(feature)
+      var popup = new mapboxgl.Popup({ offset: [0, -15] })
+      .setLngLat(feature.geometry.coordinates)
+      .setHTML('<h3>' + feature.properties.Name + '</h3>')
+      .setLngLat(feature.geometry.coordinates)
+      .addTo(this.map);
+    // });
+    // console.log(popup)
   }
 }
