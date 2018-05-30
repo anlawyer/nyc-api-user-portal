@@ -1,5 +1,6 @@
 import { Component, OnInit } from '@angular/core';
 import { UserService } from '../user.service';
+import { environment } from '../../environments/environment';
 
 @Component({
   selector: 'app-map-page',
@@ -21,11 +22,22 @@ export class MapPageComponent implements OnInit {
   }
 
   ngOnInit() {
-    mapboxgl.accessToken = 'pk.eyJ1IjoiYW5sYXd5ZXIiLCJhIjoiY2pnOXU5dHFpMWhwcjJxcWxseG91NDl5ZSJ9.lyKwIU3Uu_XrqQLcw-hE1g';
+    mapboxgl.accessToken = environment.mapbox.accessToken;
     this.map = new mapboxgl.Map({
       container: 'map', // container id
       style: 'mapbox://styles/anlawyer/cjhk37km103vb2smzmvqzep7i'
     });
+    console.log(this.map)
+    this.addDataToMap();
   }
 
+  addDataToMap() {
+    // this.map.on('load', function() {
+      // Add a GeoJSON source containing place coordinates and information.
+      // this.map.addSource("names", {
+      //     "type": "kml",
+      //     "data": '../../../../assets/Neighborhood\ Names\ GIS.kml'
+      // });
+    // }
+  };
 }
