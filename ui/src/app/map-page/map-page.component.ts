@@ -11,6 +11,8 @@ export class MapPageComponent implements OnInit {
 
   map: any;
   user: any;
+  source: any;
+  markers: any;
 
   constructor(
     private userService: UserService,
@@ -22,22 +24,25 @@ export class MapPageComponent implements OnInit {
   }
 
   ngOnInit() {
+    this.buildMap();
+  }
+
+  buildMap() {
     mapboxgl.accessToken = environment.mapbox.accessToken;
     this.map = new mapboxgl.Map({
       container: 'map', // container id
       style: 'mapbox://styles/anlawyer/cjhk37km103vb2smzmvqzep7i'
     });
-    console.log(this.map)
-    this.addDataToMap();
-  }
 
-  addDataToMap() {
-    // this.map.on('load', function() {
-      // Add a GeoJSON source containing place coordinates and information.
-      // this.map.addSource("names", {
-      //     "type": "kml",
-      //     "data": '../../../../assets/Neighborhood\ Names\ GIS.kml'
-      // });
-    // }
-  };
+    this.map.on('load', (event) => {
+       /// register source
+       // this.map.addSource('names', {
+       //    type: 'geojson',
+       //    data: '../../../../assets/Neighborhood_Names_GIS.geojson'
+       // });
+       // this.source = this.map.getSource('names')
+       // console.log(this.map)
+       // console.log(this.source)
+     });
+  }
 }
