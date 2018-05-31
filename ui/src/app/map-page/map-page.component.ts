@@ -38,6 +38,13 @@ export class MapPageComponent implements OnInit {
 
     this.map.on('load', (event) => {
 
+      d3.csv(`../assets/Census_Demographics_at_the_Neighborhood_Tabulation_Area__NTA__level.csv`)
+        .then(data => {
+          console.log(data)
+        })
+        .catch(err => {
+          console.log(err)
+        })
       // this.map.addLayer({
       //   'id': 'boros',
       //   'type': 'fill',
@@ -54,9 +61,7 @@ export class MapPageComponent implements OnInit {
       //     'fill-outline-color': 'white'
       //   }
       // });
-
       // this.showPopup(event);
-
 
      });
   }
@@ -72,8 +77,8 @@ export class MapPageComponent implements OnInit {
       }
 
       var feature = features[0];
-      console.log(features)
-      console.log(feature)
+      // console.log(features)
+      // console.log(feature)
     //   features.forEach(feature => {
     //   var popup = new mapboxgl.Popup({ offset: [0, -15] })
     //   .setLngLat(feature.geometry.coordinates)
