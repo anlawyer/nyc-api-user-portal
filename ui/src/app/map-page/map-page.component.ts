@@ -1,6 +1,7 @@
 import { Component, OnInit } from '@angular/core';
 import { UserService } from '../user.service';
 import { environment } from '../../environments/environment';
+import * as mapboxgl from 'mapbox-gl';
 
 @Component({
   selector: 'app-map-page',
@@ -9,7 +10,7 @@ import { environment } from '../../environments/environment';
 })
 export class MapPageComponent implements OnInit {
 
-  map: any; d
+  map: any;
   user: any;
   source: any;
   markers: any;
@@ -24,17 +25,35 @@ export class MapPageComponent implements OnInit {
   }
 
   ngOnInit() {
-    this.buildMap();
-  }
-
-  buildMap() {
     mapboxgl.accessToken = environment.mapbox.accessToken;
     this.map = new mapboxgl.Map({
       container: 'map', // container id
       style: 'mapbox://styles/anlawyer/cjhk37km103vb2smzmvqzep7i'
     });
+    this.buildMap();
+  }
+
+  buildMap() {
 
     this.map.on('load', (event) => {
+
+      // this.map.addLayer({
+      //   'id': 'boros',
+      //   'type': 'fill',
+      //   'source': {
+      //     type: 'geojson',
+      //     data: '../assets/Borough_Boundaries.geojson'
+      //   },
+      //   'layout': {
+      //     'visibility': 'visible'
+      //   },
+      //   'paint': {
+      //     'fill-opacity': .7,
+      //     'fill-color': 'red',
+      //     'fill-outline-color': 'white'
+      //   }
+      // });
+
       this.showPopup(event);
      });
   }
@@ -49,9 +68,9 @@ export class MapPageComponent implements OnInit {
         return;
       }
 
-      // var feature = features[0];
+      var feature = features[0];
       console.log(features)
-      // console.log(feature)
+      console.log(feature)
     //   features.forEach(feature => {
     //   var popup = new mapboxgl.Popup({ offset: [0, -15] })
     //   .setLngLat(feature.geometry.coordinates)
