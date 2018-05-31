@@ -2,6 +2,7 @@ import { Component, OnInit } from '@angular/core';
 import { UserService } from '../user.service';
 import { environment } from '../../environments/environment';
 import * as mapboxgl from 'mapbox-gl';
+import * as d3 from 'd3';
 
 @Component({
   selector: 'app-map-page',
@@ -54,7 +55,9 @@ export class MapPageComponent implements OnInit {
       //   }
       // });
 
-      this.showPopup(event);
+      // this.showPopup(event);
+
+
      });
   }
 
