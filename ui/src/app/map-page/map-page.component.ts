@@ -9,7 +9,7 @@ import { environment } from '../../environments/environment';
 })
 export class MapPageComponent implements OnInit {
 
-  map: any;
+  map: any; d
   user: any;
   source: any;
   markers: any;
@@ -49,14 +49,16 @@ export class MapPageComponent implements OnInit {
         return;
       }
 
-      var feature = features[0];
-      // console.log(features)
+      // var feature = features[0];
+      console.log(features)
       // console.log(feature)
-      var popup = new mapboxgl.Popup({ offset: [0, -15] })
-      .setLngLat(feature.geometry.coordinates)
-      .setHTML('<h3>' + feature.properties.Name + '</h3>')
-      .setLngLat(feature.geometry.coordinates)
-      .addTo(this.map);
+    //   features.forEach(feature => {
+    //   var popup = new mapboxgl.Popup({ offset: [0, -15] })
+    //   .setLngLat(feature.geometry.coordinates)
+    //   .setHTML('<h3>' + feature.properties.Name + '</h3>')
+    //   .setLngLat(feature.geometry.coordinates)
+    //   .addTo(this.map);
+    // })
     // });
     // console.log(popup)
   }
