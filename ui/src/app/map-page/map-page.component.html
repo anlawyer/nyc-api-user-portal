@@ -1,16 +1,15 @@
 <nav class="navbar"></nav>
 <div class="container">
   <div class="row">
-    <div class="col-4">
-    <!-- <div class="col-4" *ngIf="user"> -->
+    <div class="col-4" *ngIf="user">
       <h3>View demographics in your neighborhood.</h3>
       <br />
       <h5>Return to all accounts.</h5>
-      <!-- <a routerLink="/user/list" class="btn btn-dark btn-lg">All accounts</a> -->
+      <a routerLink="/user/list" class="btn btn-dark btn-lg">All accounts</a>
       <br />
       <br />
       <h5>Return to your account.</h5>
-      <!-- <a routerLink="/user/edit/{{user.id}}" class="btn btn-dark btn-lg">Your account</a> -->
+      <a routerLink="/user/edit/{{user.id}}" class="btn btn-dark btn-lg">Your account</a>
     </div>
     <div class="col-8">
       <div id="map" class="map-container">
@@ -23,16 +22,16 @@
     <div class="col-8 radio-row">
       <h5>Select data to filter view:</h5>
       <div class="form-check form-check-inline">
-        <input class="form-check-input" type="radio" name="inlineRadioOptions" id="inlineRadio1" value="option1">
-        <label class="form-check-label" for="inlineRadio1">demo one</label>
+        <input class="form-check-input" type="radio" name="inlineRadioOptions" id="inlineRadio1" value="option1" disabled>
+        <label class="form-check-label" for="inlineRadio1">Demographics</label>
       </div>
       <div class="form-check form-check-inline">
-        <input class="form-check-input" type="radio" name="inlineRadioOptions" id="inlineRadio2" value="option2">
-        <label class="form-check-label" for="inlineRadio2">demo two</label>
+        <input class="form-check-input" type="radio" name="inlineRadioOptions" id="inlineRadio2" value="option2" disabled>
+        <label class="form-check-label" for="inlineRadio2">Neighborhood</label>
       </div>
       <div class="form-check form-check-inline">
-        <input class="form-check-input" type="radio" name="inlineRadioOptions" id="inlineRadio3" value="option3">
-        <label class="form-check-label" for="inlineRadio3">demo three</label>
+        <input class="form-check-input" type="radio" name="inlineRadioOptions" id="inlineRadio3" value="option3" disabled>
+        <label class="form-check-label" for="inlineRadio3">Year</label>
       </div>
     </div>
   </div>

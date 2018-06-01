@@ -61,32 +61,39 @@ export class MapPageComponent implements OnInit {
       //     'fill-outline-color': 'white'
       //   }
       // });
-      // this.showPopup(event);
+      this.showPopup(event);
 
      });
   }
 
   showPopup(e) {
-    // this.map.on('click', function(e) {
       var features = this.map.queryRenderedFeatures(e.point, {
-        layers: ['neighborhood names'] // replace this with the name of the layer
+        layers: ['neighborhood names']
       });
 
       if (!features.length) {
         return;
       }
 
-      var feature = features[0];
-      // console.log(features)
-      // console.log(feature)
-    //   features.forEach(feature => {
-    //   var popup = new mapboxgl.Popup({ offset: [0, -15] })
-    //   .setLngLat(feature.geometry.coordinates)
-    //   .setHTML('<h3>' + feature.properties.Name + '</h3>')
-    //   .setLngLat(feature.geometry.coordinates)
-    //   .addTo(this.map);
-    // })
-    // });
-    // console.log(popup)
+      var feature1 = features[0];
+      var popup = new mapboxgl.Popup({ offset: [0, -15] })
+      .setLngLat(feature1.geometry.coordinates)
+      .setHTML('<h3>' + feature1.properties.Name + '</h3>')
+      .setLngLat(feature1.geometry.coordinates)
+      .addTo(this.map);
+
+      var feature2 = features[25];
+      var popup = new mapboxgl.Popup({ offset: [0, -15] })
+      .setLngLat(feature2.geometry.coordinates)
+      .setHTML('<h3>' + feature2.properties.Name + '</h3>')
+      .setLngLat(feature2.geometry.coordinates)
+      .addTo(this.map);
+
+      var feature3 = features[80];
+      var popup = new mapboxgl.Popup({ offset: [0, -15] })
+      .setLngLat(feature3.geometry.coordinates)
+      .setHTML('<h3>' + feature3.properties.Name + '</h3>')
+      .setLngLat(feature3.geometry.coordinates)
+      .addTo(this.map);
   }
 }
